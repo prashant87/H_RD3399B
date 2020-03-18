@@ -1,0 +1,44 @@
+Change Component Footprint: Designator=C168 Old Footprint=0402_cc New Footprint=0805C
+Change Component Footprint: Designator=C170 Old Footprint=0402_cc New Footprint=0805C
+Change Component Footprint: Designator=C171 Old Footprint=0402_cc New Footprint=0805C
+Change Component Footprint: Designator=C174 Old Footprint=0402_cc New Footprint=0805C
+Change Component Footprint: Designator=C172 Old Footprint=0603_cc New Footprint=0805C
+Change Component Footprint: Designator=C173 Old Footprint=0603_cc New Footprint=0805C
+Change Component Footprint: Designator=C209 Old Footprint=0603_cc New Footprint=0805C
+Change Component Footprint: Designator=C169 Old Footprint=C0805 New Footprint=0805C
+Added Component: Designator=C147(0805C)
+Added Component: Designator=C148(0805C)
+Added Component: Designator=C149(0805C)
+Added Component: Designator=C151(0805C)
+Added Component: Designator=C152(0805C)
+Added Component: Designator=C153(0805C)
+Added Component: Designator=R127(0805)
+Added Component: Designator=R128(0805)
+Added Component: Designator=R129(0805)
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=SDIO_D0 Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=SDIO_D1 Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=SDIO_D2 Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=SDIO_D3 Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=SDIO_CMD Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=SDIO_CLK Pin=C153-2
+Added Pin To Net: NetName=VDD_3G Pin=R127-1
+Added Pin To Net: NetName=NetC171_2 Pin=R127-2
+Added Pin To Net: NetName=3G_EN Pin=R128-1
+Added Pin To Net: NetName=GND Pin=R128-2
+Added Pin To Net: NetName=NetC171_2 Pin=R129-1
+Added Pin To Net: NetName=GND Pin=R129-2
+Added Member To Class: ClassName=09 Member=Component C147 NC
+Added Member To Class: ClassName=09 Member=Component C148 NC
+Added Member To Class: ClassName=09 Member=Component C149 NC
+Added Member To Class: ClassName=09 Member=Component C151 NC
+Added Member To Class: ClassName=09 Member=Component C152 NC
+Added Member To Class: ClassName=09 Member=Component C153 NC
+Added Member To Class: ClassName=07 Member=Component R127 100K 1%
+Added Member To Class: ClassName=07 Member=Component R128 100K
+Added Member To Class: ClassName=07 Member=Component R129 22.1K 1%

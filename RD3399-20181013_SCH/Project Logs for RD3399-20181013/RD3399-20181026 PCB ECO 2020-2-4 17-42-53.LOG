@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=TXD5 Pin=J43-2
+Removed Pin From Net: NetName=RXD5 Pin=J43-3
+Removed Pin From Net: NetName=TXD6 Pin=J44-2
+Removed Pin From Net: NetName=RXD6 Pin=J44-3
+Removed Pin From Net: NetName=TXD7 Pin=J45-2
+Removed Pin From Net: NetName=RXD7 Pin=J45-3
+Added Pin To Net: NetName=RXD5 Pin=J43-2
+Added Pin To Net: NetName=TXD5 Pin=J43-3
+Added Pin To Net: NetName=RXD6 Pin=J44-2
+Added Pin To Net: NetName=TXD6 Pin=J44-3
+Added Pin To Net: NetName=RXD7 Pin=J45-2
+Added Pin To Net: NetName=TXD7 Pin=J45-3

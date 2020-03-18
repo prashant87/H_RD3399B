@@ -1,0 +1,1266 @@
+Removed Pin From Net: NetName=GND Pin=C74-2
+Removed Pin From Net: NetName=GND Pin=C75-2
+Removed Pin From Net: NetName=GND Pin=C76-2
+Removed Pin From Net: NetName=GND Pin=C77-2
+Removed Pin From Net: NetName=GND Pin=C78-2
+Removed Pin From Net: NetName=GND Pin=C79-2
+Removed Pin From Net: NetName=GND Pin=C80-2
+Removed Pin From Net: NetName=GND Pin=C81-2
+Removed Pin From Net: NetName=GND Pin=C82-2
+Removed Pin From Net: NetName=GND Pin=C83-2
+Removed Pin From Net: NetName=GND Pin=C84-2
+Removed Pin From Net: NetName=GND Pin=C85-2
+Removed Pin From Net: NetName=GND Pin=C86-2
+Removed Pin From Net: NetName=GND Pin=C87-2
+Removed Pin From Net: NetName=GND Pin=C88-2
+Removed Pin From Net: NetName=GND Pin=C89-2
+Removed Pin From Net: NetName=GND Pin=C90-2
+Removed Pin From Net: NetName=GND Pin=C91-2
+Removed Pin From Net: NetName=VDD_3G Pin=C92-1
+Removed Pin From Net: NetName=GND Pin=C92-2
+Removed Pin From Net: NetName=GND Pin=C93-2
+Removed Pin From Net: NetName=GND Pin=C94-2
+Removed Pin From Net: NetName=VDD_3G Pin=C95-1
+Removed Pin From Net: NetName=GND Pin=C95-2
+Removed Pin From Net: NetName=GND Pin=C96-2
+Removed Pin From Net: NetName=GND Pin=C97-2
+Removed Pin From Net: NetName=VDD_3G Pin=C98-1
+Removed Pin From Net: NetName=GND Pin=C98-2
+Removed Pin From Net: NetName=GND Pin=C99-2
+Removed Pin From Net: NetName=GND Pin=C100-2
+Removed Pin From Net: NetName=GND Pin=C101-2
+Removed Pin From Net: NetName=GND Pin=C102-2
+Removed Pin From Net: NetName=GND Pin=C103-1
+Removed Pin From Net: NetName=GND Pin=C105-2
+Removed Pin From Net: NetName=GND Pin=C106-2
+Removed Pin From Net: NetName=GND Pin=C107-2
+Removed Pin From Net: NetName=GND Pin=C108-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C108-2
+Removed Pin From Net: NetName=GND Pin=C109-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C109-2
+Removed Pin From Net: NetName=GND Pin=C110-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C110-2
+Removed Pin From Net: NetName=GND Pin=C111-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C111-2
+Removed Pin From Net: NetName=GND Pin=C112-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C112-2
+Removed Pin From Net: NetName=GND Pin=C113-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C113-2
+Removed Pin From Net: NetName=GND Pin=C114-2
+Removed Pin From Net: NetName=GND Pin=C115-2
+Removed Pin From Net: NetName=GND Pin=C116-2
+Removed Pin From Net: NetName=GND Pin=C117-2
+Removed Pin From Net: NetName=GND Pin=C118-2
+Removed Pin From Net: NetName=GND Pin=C119-2
+Removed Pin From Net: NetName=GND Pin=C120-2
+Removed Pin From Net: NetName=GND Pin=C121-2
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C122-1
+Removed Pin From Net: NetName=GND Pin=C122-2
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=C123-1
+Removed Pin From Net: NetName=GND Pin=C123-2
+Removed Pin From Net: NetName=GND Pin=C161-2
+Removed Pin From Net: NetName=GND Pin=C162-1
+Removed Pin From Net: NetName=VDD_3G Pin=C166-1
+Removed Pin From Net: NetName=GND Pin=C166-2
+Removed Pin From Net: NetName=VDD_3G Pin=C167-1
+Removed Pin From Net: NetName=GND Pin=C167-2
+Removed Pin From Net: NetName=VDD_12V Pin=C169-1
+Removed Pin From Net: NetName=GND Pin=C169-2
+Removed Pin From Net: NetName=VDD_12V Pin=C170-1
+Removed Pin From Net: NetName=GND Pin=C170-2
+Removed Pin From Net: NetName=VDD_3G Pin=C171-1
+Removed Pin From Net: NetName=VDD_3G Pin=C172-1
+Removed Pin From Net: NetName=GND Pin=C172-2
+Removed Pin From Net: NetName=VDD_3G Pin=C173-1
+Removed Pin From Net: NetName=GND Pin=C173-2
+Removed Pin From Net: NetName=VDD_3G Pin=C174-1
+Removed Pin From Net: NetName=GND Pin=C174-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C175-1
+Removed Pin From Net: NetName=GND Pin=C175-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C176-1
+Removed Pin From Net: NetName=GND Pin=C176-2
+Removed Pin From Net: NetName=PCIE_REF_CLKP Pin=C177-1
+Removed Pin From Net: NetName=PCIE_REF_CLKN Pin=C178-1
+Removed Pin From Net: NetName=PCIE_TX0P Pin=C179-1
+Removed Pin From Net: NetName=PCIE_TX0N Pin=C180-1
+Removed Pin From Net: NetName=PCIE_TX1P Pin=C181-1
+Removed Pin From Net: NetName=PCIE_TX1N Pin=C182-1
+Removed Pin From Net: NetName=PCIE_TX2P Pin=C183-1
+Removed Pin From Net: NetName=PCIE_TX2N Pin=C184-1
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C185-1
+Removed Pin From Net: NetName=GND Pin=C185-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C186-1
+Removed Pin From Net: NetName=GND Pin=C186-2
+Removed Pin From Net: NetName=PCIE_TX3P Pin=C187-1
+Removed Pin From Net: NetName=PCIE_TX3N Pin=C188-1
+Removed Pin From Net: NetName=VDD_12V Pin=C192-1
+Removed Pin From Net: NetName=GND Pin=C192-2
+Removed Pin From Net: NetName=VDD_12V Pin=C193-1
+Removed Pin From Net: NetName=GND Pin=C193-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C194-1
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C195-1
+Removed Pin From Net: NetName=GND Pin=C195-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C196-1
+Removed Pin From Net: NetName=GND Pin=C196-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C197-1
+Removed Pin From Net: NetName=GND Pin=C197-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C208-1
+Removed Pin From Net: NetName=GND Pin=C208-2
+Removed Pin From Net: NetName=VDD_3G Pin=C209-1
+Removed Pin From Net: NetName=GND Pin=C209-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=C215-1
+Removed Pin From Net: NetName=GND Pin=C215-2
+Removed Pin From Net: NetName=GND Pin=D13-1
+Removed Pin From Net: NetName=GND Pin=D14-1
+Removed Pin From Net: NetName=DVP_PDN1_H Pin=J24-1
+Removed Pin From Net: NetName=GND Pin=J24-2
+Removed Pin From Net: NetName=I2C1_SDA Pin=J24-3
+Removed Pin From Net: NetName=I2C1_SCL Pin=J24-5
+Removed Pin From Net: NetName=CAMERA_RST_L Pin=J24-6
+Removed Pin From Net: NetName=DVP_PDN0_H Pin=J24-7
+Removed Pin From Net: NetName=GND Pin=J24-8
+Removed Pin From Net: NetName=CIF_CLKO_ Pin=J24-9
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D3P Pin=J24-12
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D3N Pin=J24-13
+Removed Pin From Net: NetName=GND Pin=J24-14
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D2P Pin=J24-15
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D2N Pin=J24-16
+Removed Pin From Net: NetName=GND Pin=J24-17
+Removed Pin From Net: NetName=MIPI_TX1/RX1_CLKP Pin=J24-18
+Removed Pin From Net: NetName=MIPI_TX1/RX1_CLKN Pin=J24-19
+Removed Pin From Net: NetName=GND Pin=J24-20
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D1P Pin=J24-21
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D1N Pin=J24-22
+Removed Pin From Net: NetName=GND Pin=J24-24
+Removed Pin From Net: NetName=VDD_3G Pin=J24-27
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D0P Pin=J24-29
+Removed Pin From Net: NetName=MIPI_TX1/RX1_D0N Pin=J24-30
+Removed Pin From Net: NetName=GND Pin=J24-31
+Removed Pin From Net: NetName=GND Pin=J24-32
+Removed Pin From Net: NetName=DVP_PDN0_H Pin=J25-1
+Removed Pin From Net: NetName=GND Pin=J25-2
+Removed Pin From Net: NetName=I2C1_SDA Pin=J25-3
+Removed Pin From Net: NetName=I2C1_SCL Pin=J25-5
+Removed Pin From Net: NetName=CAMERA_RST1_L Pin=J25-6
+Removed Pin From Net: NetName=DVP_PDN1_H Pin=J25-7
+Removed Pin From Net: NetName=GND Pin=J25-8
+Removed Pin From Net: NetName=CIF_CLKO_ Pin=J25-9
+Removed Pin From Net: NetName=MIPI_RX0_D3P Pin=J25-12
+Removed Pin From Net: NetName=MIPI_RX0_D3N Pin=J25-13
+Removed Pin From Net: NetName=GND Pin=J25-14
+Removed Pin From Net: NetName=MIPI_RX0_D2P Pin=J25-15
+Removed Pin From Net: NetName=MIPI_RX0_D2N Pin=J25-16
+Removed Pin From Net: NetName=GND Pin=J25-17
+Removed Pin From Net: NetName=MIPI_RX0_CLKP Pin=J25-18
+Removed Pin From Net: NetName=MIPI_RX0_CLKN Pin=J25-19
+Removed Pin From Net: NetName=GND Pin=J25-20
+Removed Pin From Net: NetName=MIPI_RX0_D1P Pin=J25-21
+Removed Pin From Net: NetName=MIPI_RX0_D1N Pin=J25-22
+Removed Pin From Net: NetName=GND Pin=J25-24
+Removed Pin From Net: NetName=VDD_3G Pin=J25-27
+Removed Pin From Net: NetName=MIPI_RX0_D0P Pin=J25-29
+Removed Pin From Net: NetName=MIPI_RX0_D0N Pin=J25-30
+Removed Pin From Net: NetName=GND Pin=J25-31
+Removed Pin From Net: NetName=GND Pin=J25-32
+Removed Pin From Net: NetName=DVP_PDN1_H Pin=J26-1
+Removed Pin From Net: NetName=GND Pin=J26-2
+Removed Pin From Net: NetName=I2C1_SDA Pin=J26-3
+Removed Pin From Net: NetName=I2C1_SCL Pin=J26-5
+Removed Pin From Net: NetName=CAMERA_RST_L Pin=J26-6
+Removed Pin From Net: NetName=DVP_PDN0_H Pin=J26-8
+Removed Pin From Net: NetName=CIF_CLKO_ Pin=J26-13
+Removed Pin From Net: NetName=GND Pin=J26-15
+Removed Pin From Net: NetName=GND Pin=J26-24
+Removed Pin From Net: NetName=VDD_3G Pin=J26-27
+Removed Pin From Net: NetName=GND Pin=J26-31
+Removed Pin From Net: NetName=GND Pin=J26-32
+Removed Pin From Net: NetName=VDD_3G Pin=J31-2
+Removed Pin From Net: NetName=GND Pin=J31-4
+Removed Pin From Net: NetName=GND Pin=J31-9
+Removed Pin From Net: NetName=GND Pin=J31-15
+Removed Pin From Net: NetName=GND Pin=J31-18
+Removed Pin From Net: NetName=GND Pin=J31-21
+Removed Pin From Net: NetName=GND Pin=J31-26
+Removed Pin From Net: NetName=GND Pin=J31-27
+Removed Pin From Net: NetName=GND Pin=J31-29
+Removed Pin From Net: NetName=GND Pin=J31-34
+Removed Pin From Net: NetName=GND Pin=J31-35
+Removed Pin From Net: NetName=USBDN2 Pin=J31-36
+Removed Pin From Net: NetName=GND Pin=J31-37
+Removed Pin From Net: NetName=USBDP2 Pin=J31-38
+Removed Pin From Net: NetName=VDD_3G Pin=J31-39
+Removed Pin From Net: NetName=GND Pin=J31-40
+Removed Pin From Net: NetName=VDD_3G Pin=J31-41
+Removed Pin From Net: NetName=GND Pin=J31-43
+Removed Pin From Net: NetName=GND Pin=J31-50
+Removed Pin From Net: NetName=VDD_3G Pin=J31-52
+Removed Pin From Net: NetName=GND Pin=J32-5
+Removed Pin From Net: NetName=HUB_5V Pin=J33-1
+Removed Pin From Net: NetName=USBDN2 Pin=J33-2
+Removed Pin From Net: NetName=USBDP2 Pin=J33-3
+Removed Pin From Net: NetName=GND Pin=J33-4
+Removed Pin From Net: NetName=I2C1_SDA Pin=J34-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=J34-2
+Removed Pin From Net: NetName=I2C4_SDA Pin=J34-3
+Removed Pin From Net: NetName=I2C4_SCL Pin=J34-4
+Removed Pin From Net: NetName=GND Pin=J35-2
+Removed Pin From Net: NetName=VDD_3G Pin=J35-3
+Removed Pin From Net: NetName=HUB_5V Pin=J35-4
+Removed Pin From Net: NetName=ADC_IN0 Pin=J36-1
+Removed Pin From Net: NetName=ADC_IN3 Pin=J36-3
+Removed Pin From Net: NetName=ADC_IN4 Pin=J36-4
+Removed Pin From Net: NetName=I2S_CLK Pin=J37-1
+Removed Pin From Net: NetName=I2S1_SCLK Pin=J37-2
+Removed Pin From Net: NetName=I2S1_LRCK_RX Pin=J37-3
+Removed Pin From Net: NetName=I2S1_LRCK_TX Pin=J37-4
+Removed Pin From Net: NetName=I2S1_SDI0 Pin=J37-5
+Removed Pin From Net: NetName=I2S1_SDO0 Pin=J37-6
+Removed Pin From Net: NetName=HUB_5V Pin=J38-1
+Removed Pin From Net: NetName=VDD_3G Pin=J38-2
+Removed Pin From Net: NetName=VCCA1V8_CODEC Pin=J38-3
+Removed Pin From Net: NetName=GND Pin=J38-4
+Removed Pin From Net: NetName=GPIO4_C5_3V Pin=J39-1
+Removed Pin From Net: NetName=VCC5V0_HOST_EN Pin=J39-2
+Removed Pin From Net: NetName=GPIO4_D2_3V0 Pin=J39-3
+Removed Pin From Net: NetName=GND Pin=J39-4
+Removed Pin From Net: NetName=GND Pin=J40-1
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-2
+Removed Pin From Net: NetName=GND Pin=J40-3
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-4
+Removed Pin From Net: NetName=PCIE_RX3_N Pin=J40-5
+Removed Pin From Net: NetName=PCIE_RX3_P Pin=J40-7
+Removed Pin From Net: NetName=GND Pin=J40-9
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-12
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-14
+Removed Pin From Net: NetName=GND Pin=J40-15
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-16
+Removed Pin From Net: NetName=PCIE_RX2_N Pin=J40-17
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-18
+Removed Pin From Net: NetName=PCIE_RX2_P Pin=J40-19
+Removed Pin From Net: NetName=GND Pin=J40-21
+Removed Pin From Net: NetName=GND Pin=J40-27
+Removed Pin From Net: NetName=PCIE_RX1_N Pin=J40-29
+Removed Pin From Net: NetName=PCIE_RX1_P Pin=J40-31
+Removed Pin From Net: NetName=GND Pin=J40-33
+Removed Pin From Net: NetName=GND Pin=J40-39
+Removed Pin From Net: NetName=PCIE_RX0_N Pin=J40-41
+Removed Pin From Net: NetName=PCIE_RX0_P Pin=J40-43
+Removed Pin From Net: NetName=GND Pin=J40-45
+Removed Pin From Net: NetName=GND Pin=J40-51
+Removed Pin From Net: NetName=GND Pin=J40-57
+Removed Pin From Net: NetName=32KHZ Pin=J40-60
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-62
+Removed Pin From Net: NetName=GND Pin=J40-63
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-64
+Removed Pin From Net: NetName=GND Pin=J40-65
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=J40-66
+Removed Pin From Net: NetName=GND Pin=J40-67
+Removed Pin From Net: NetName=VDD_3G Pin=L5-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=L6-2
+Removed Pin From Net: NetName=VCCA1V8_CODEC Pin=Q7-1
+Removed Pin From Net: NetName=PCIE_CLKREQN_U Pin=Q7-2
+Removed Pin From Net: NetName=VCCA1V8_CODEC Pin=Q8-1
+Removed Pin From Net: NetName=GPIO1_A1 Pin=Q8-2
+Removed Pin From Net: NetName=VCCA1V8_CODEC Pin=Q9-1
+Removed Pin From Net: NetName=GPIO0_B5 Pin=Q9-2
+Removed Pin From Net: NetName=CIF_VSYNC Pin=R49-2
+Removed Pin From Net: NetName=CIF_CLKO_ Pin=R50-1
+Removed Pin From Net: NetName=CIF_CLKO Pin=R50-2
+Removed Pin From Net: NetName=CIF_HREF Pin=R51-2
+Removed Pin From Net: NetName=CIF_D7 Pin=R52-2
+Removed Pin From Net: NetName=CAMERA_RST1_L Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=R53-2
+Removed Pin From Net: NetName=CAMERA_RST_L Pin=R54-1
+Removed Pin From Net: NetName=GND Pin=R54-2
+Removed Pin From Net: NetName=GND Pin=R56-2
+Removed Pin From Net: NetName=VCC1V8_DVP Pin=R57-2
+Removed Pin From Net: NetName=GND Pin=R58-2
+Removed Pin From Net: NetName=PHY_TXD0 Pin=R59-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R59-2
+Removed Pin From Net: NetName=PHY_TXD1 Pin=R60-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R60-2
+Removed Pin From Net: NetName=PHY_TXD2 Pin=R61-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R61-2
+Removed Pin From Net: NetName=PHY_TXD3 Pin=R62-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R62-2
+Removed Pin From Net: NetName=MAC_MDIO Pin=R63-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R63-2
+Removed Pin From Net: NetName=MAC_CLK Pin=R64-1
+Removed Pin From Net: NetName=GND Pin=R69-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R70-2
+Removed Pin From Net: NetName=GND Pin=R71-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R72-2
+Removed Pin From Net: NetName=GND Pin=R73-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R74-2
+Removed Pin From Net: NetName=GND Pin=R75-2
+Removed Pin From Net: NetName=GND Pin=R76-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R77-2
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R78-2
+Removed Pin From Net: NetName=GND Pin=R79-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R80-2
+Removed Pin From Net: NetName=PHY_RST Pin=R81-1
+Removed Pin From Net: NetName=GND Pin=R82-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R83-2
+Removed Pin From Net: NetName=GND Pin=R84-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R85-2
+Removed Pin From Net: NetName=PHY_PMEB Pin=R86-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R86-2
+Removed Pin From Net: NetName=PHY_INT Pin=R87-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R87-2
+Removed Pin From Net: NetName=GND Pin=R88-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R89-1
+Removed Pin From Net: NetName=GND Pin=R90-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R91-2
+Removed Pin From Net: NetName=GND Pin=R92-1
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=R93-2
+Removed Pin From Net: NetName=MAC_RXD0 Pin=R94-2
+Removed Pin From Net: NetName=MAC_RXD1 Pin=R95-2
+Removed Pin From Net: NetName=MAC_RXD2 Pin=R96-2
+Removed Pin From Net: NetName=MAC_RXD3 Pin=R97-2
+Removed Pin From Net: NetName=MAC_RXCLK Pin=R98-2
+Removed Pin From Net: NetName=MAC_RXDV Pin=R99-2
+Removed Pin From Net: NetName=VDD_3G Pin=R127-1
+Removed Pin From Net: NetName=3G_EN Pin=R128-1
+Removed Pin From Net: NetName=GND Pin=R128-2
+Removed Pin From Net: NetName=GND Pin=R129-2
+Removed Pin From Net: NetName=IR_RX Pin=R130-1
+Removed Pin From Net: NetName=GND Pin=R131-1
+Removed Pin From Net: NetName=IR_RX Pin=R131-2
+Removed Pin From Net: NetName=VCCA1V8_CODEC Pin=R132-1
+Removed Pin From Net: NetName=PCIE_CLKREQN_U Pin=R132-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=R133-1
+Removed Pin From Net: NetName=VCCA1V8_CODEC Pin=R134-1
+Removed Pin From Net: NetName=GPIO1_A1 Pin=R134-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=R135-1
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=R136-2
+Removed Pin From Net: NetName=VCCA1V8_CODEC Pin=R137-1
+Removed Pin From Net: NetName=GPIO0_B5 Pin=R137-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=R138-1
+Removed Pin From Net: NetName=32KHZ Pin=R139-2
+Removed Pin From Net: NetName=GND Pin=R140-1
+Removed Pin From Net: NetName=32KHZ Pin=R140-2
+Removed Pin From Net: NetName=VDD3V3_M.2 Pin=R141-1
+Removed Pin From Net: NetName=GND Pin=R142-2
+Removed Pin From Net: NetName=CIF_D6 Pin=RN1-1
+Removed Pin From Net: NetName=CIF_D5 Pin=RN1-2
+Removed Pin From Net: NetName=CIF_CLKI Pin=RN1-3
+Removed Pin From Net: NetName=CIF_D4 Pin=RN1-4
+Removed Pin From Net: NetName=CIF_D0 Pin=RN2-1
+Removed Pin From Net: NetName=CIF_D3 Pin=RN2-2
+Removed Pin From Net: NetName=CIF_D1 Pin=RN2-3
+Removed Pin From Net: NetName=CIF_D2 Pin=RN2-4
+Removed Pin From Net: NetName=VDD_3G Pin=U11-1
+Removed Pin From Net: NetName=GND Pin=U11-2
+Removed Pin From Net: NetName=VDD_3G Pin=U12-1
+Removed Pin From Net: NetName=GND Pin=U12-2
+Removed Pin From Net: NetName=VDD_3G Pin=U13-1
+Removed Pin From Net: NetName=GND Pin=U13-2
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=U16-6
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=U16-15
+Removed Pin From Net: NetName=PHY_INT Pin=U16-20
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=U16-21
+Removed Pin From Net: NetName=PHY_TXCLK Pin=U16-22
+Removed Pin From Net: NetName=PHY_TXD0 Pin=U16-23
+Removed Pin From Net: NetName=PHY_TXD1 Pin=U16-24
+Removed Pin From Net: NetName=PHY_TXD2 Pin=U16-25
+Removed Pin From Net: NetName=PHY_TXD3 Pin=U16-26
+Removed Pin From Net: NetName=PHY_TXEN Pin=U16-27
+Removed Pin From Net: NetName=MAC_MDC Pin=U16-30
+Removed Pin From Net: NetName=MAC_MDIO Pin=U16-31
+Removed Pin From Net: NetName=PHY_PMEB Pin=U16-33
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=U16-37
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=U16-41
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=U16-44
+Removed Pin From Net: NetName=VCC3V3_SYS Pin=U16-45
+Removed Pin From Net: NetName=GND Pin=U16-47
+Removed Pin From Net: NetName=GND Pin=U16-49
+Removed Pin From Net: NetName=GND Pin=U20-2
+Removed Pin From Net: NetName=3G_EN Pin=U20-4
+Removed Pin From Net: NetName=VDD_12V Pin=U20-5
+Removed Pin From Net: NetName=GND Pin=U21-2
+Removed Pin From Net: NetName=GPIO1_C4 Pin=U21-4
+Removed Pin From Net: NetName=VDD_12V Pin=U21-5
+Removed Pin From Net: NetName=GND Pin=Y2-2
+Removed Pin From Net: NetName=GND Pin=Y2-4
+Change Component DesignItemId : Designator=R12 Old DesignItemId= New DesignItemId=01RES
+Change Component DesignItemId : Designator=C15 Old DesignItemId= New DesignItemId=02CAPP
+Change Component DesignItemId : Designator=Q3 Old DesignItemId= New DesignItemId=2N6756_0
+Change Component DesignItemId : Designator=Q4 Old DesignItemId= New DesignItemId=2N6756_0
+Change Component DesignItemId : Designator=Q5 Old DesignItemId= New DesignItemId=2N6756_0
+Change Component DesignItemId : Designator=Q10 Old DesignItemId= New DesignItemId=2N6756_0
+Change Component DesignItemId : Designator=Q11 Old DesignItemId= New DesignItemId=2N6756_0
+Change Component DesignItemId : Designator=U8 Old DesignItemId= New DesignItemId=ALC5651_3
+Change Component DesignItemId : Designator=U19 Old DesignItemId= New DesignItemId=AP6493_1
+Change Component DesignItemId : Designator=Q43 Old DesignItemId= New DesignItemId=APM2301
+Change Component DesignItemId : Designator=U9 Old DesignItemId= New DesignItemId=AW8733A_2
+Change Component DesignItemId : Designator=U10 Old DesignItemId= New DesignItemId=AW8733A_2
+Change Component DesignItemId : Designator=RTC1 Old DesignItemId= New DesignItemId=BATTERY_5
+Change Component DesignItemId : Designator=U6 Old DesignItemId= New DesignItemId=BMA250
+Change Component DesignItemId : Designator=C2 Old DesignItemId= New DesignItemId=C1005_0
+Change Component DesignItemId : Designator=C3 Old DesignItemId= New DesignItemId=C1005_0
+Change Component DesignItemId : Designator=C5 Old DesignItemId= New DesignItemId=C1005_0
+Change Component DesignItemId : Designator=C7 Old DesignItemId= New DesignItemId=C1005_0
+Change Component DesignItemId : Designator=C19 Old DesignItemId= New DesignItemId=CAP_Dup1
+Change Component DesignItemId : Designator=C30 Old DesignItemId= New DesignItemId=CAP_Dup1
+Change Component DesignItemId : Designator=C142 Old DesignItemId= New DesignItemId=CAP_Dup1
+Change Component DesignItemId : Designator=C27 Old DesignItemId= New DesignItemId=CAP_Dup2
+Change Component DesignItemId : Designator=C28 Old DesignItemId= New DesignItemId=CAP_Dup2
+Change Component DesignItemId : Designator=C140 Old DesignItemId= New DesignItemId=CAP_Dup2
+Change Component DesignItemId : Designator=C141 Old DesignItemId= New DesignItemId=CAP_Dup2
+Change Component DesignItemId : Designator=C198 Old DesignItemId= New DesignItemId=CAP_NP
+Change Component DesignItemId : Designator=C199 Old DesignItemId= New DesignItemId=CAP_NP
+Change Component DesignItemId : Designator=C145 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C147 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C148 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C149 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C150 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C151 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C152 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C153 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C159 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C160 Old DesignItemId= New DesignItemId=CAP NP
+Change Component DesignItemId : Designator=C6 Old DesignItemId= New DesignItemId=CAP NP_3
+Change Component DesignItemId : Designator=C16 Old DesignItemId= New DesignItemId=CAP NP_3
+Change Component DesignItemId : Designator=C29 Old DesignItemId= New DesignItemId=CAP NP_3
+Change Component DesignItemId : Designator=C205 Old DesignItemId= New DesignItemId=CAP NP_3
+Change Component DesignItemId : Designator=C206 Old DesignItemId= New DesignItemId=CAP NP_3
+Change Component DesignItemId : Designator=C231 Old DesignItemId= New DesignItemId=CAP NP_3
+Change Component DesignItemId : Designator=C23 Old DesignItemId= New DesignItemId=CAP NP_3_Dup1
+Change Component DesignItemId : Designator=C24 Old DesignItemId= New DesignItemId=CAP NP_3_Dup1
+Change Component DesignItemId : Designator=C203 Old DesignItemId= New DesignItemId=CAP NP_3_Dup1
+Change Component DesignItemId : Designator=C204 Old DesignItemId= New DesignItemId=CAP NP_3_Dup1
+Change Component DesignItemId : Designator=C34 Old DesignItemId= New DesignItemId=CAP NP_4
+Change Component DesignItemId : Designator=C137 Old DesignItemId= New DesignItemId=CAP NP_4
+Change Component DesignItemId : Designator=C138 Old DesignItemId= New DesignItemId=CAP NP_4
+Change Component DesignItemId : Designator=C139 Old DesignItemId= New DesignItemId=CAP NP_4
+Change Component DesignItemId : Designator=C143 Old DesignItemId= New DesignItemId=CAPNP_Dup1_1
+Change Component DesignItemId : Designator=C144 Old DesignItemId= New DesignItemId=CAPNP_Dup1_1
+Change Component DesignItemId : Designator=C146 Old DesignItemId= New DesignItemId=CAPNP_Dup1_1
+Change Component DesignItemId : Designator=C154 Old DesignItemId= New DesignItemId=CAPNP_Dup1_1
+Change Component DesignItemId : Designator=C155 Old DesignItemId= New DesignItemId=CAPNP_Dup1_1
+Change Component DesignItemId : Designator=C157 Old DesignItemId= New DesignItemId=CAPNP_Dup1_1
+Change Component DesignItemId : Designator=C158 Old DesignItemId= New DesignItemId=CAPNP_Dup1_1
+Change Component DesignItemId : Designator=C8 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C10 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C11 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C12 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C13 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C14 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C200 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C201 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C202 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C207 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C214 Old DesignItemId= New DesignItemId=CAP NP_Dup2
+Change Component DesignItemId : Designator=C57 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C58 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C59 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C61 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C62 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C63 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C64 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C67 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C68 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C69 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C70 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C71 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C72 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C73 Old DesignItemId= New DesignItemId=CAP NP_Dup4
+Change Component DesignItemId : Designator=C17 Old DesignItemId= New DesignItemId=CAP NP_Dup5
+Change Component DesignItemId : Designator=C18 Old DesignItemId= New DesignItemId=CAP NP_Dup5
+Change Component DesignItemId : Designator=C20 Old DesignItemId= New DesignItemId=CAP NP_Dup5
+Change Component DesignItemId : Designator=C21 Old DesignItemId= New DesignItemId=CAP NP_Dup5
+Change Component DesignItemId : Designator=C37 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C38 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C39 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C40 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C41 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C42 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C43 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C47 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C50 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C51 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C52 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C54 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C55 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C60 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C65 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C66 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C156 Old DesignItemId= New DesignItemId=CAP NP_Dup6
+Change Component DesignItemId : Designator=C32 Old DesignItemId= New DesignItemId=CAP NP_Dup7
+Change Component DesignItemId : Designator=C9 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C22 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C25 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C26 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C31 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C33 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C35 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C36 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C134 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C135 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C136 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C210 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C216 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C230 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=C232 Old DesignItemId= New DesignItemId=CAP NP_Dup8
+Change Component DesignItemId : Designator=J1 Old DesignItemId= New DesignItemId=CON2
+Change Component DesignItemId : Designator=J18 Old DesignItemId= New DesignItemId=CON2
+Change Component DesignItemId : Designator=J19 Old DesignItemId= New DesignItemId=CON2
+Change Component DesignItemId : Designator=J29 Old DesignItemId= New DesignItemId=CON2
+Change Component DesignItemId : Designator=J9 Old DesignItemId= New DesignItemId=CON2_Dup1
+Change Component DesignItemId : Designator=J21 Old DesignItemId= New DesignItemId=CON2_Dup1
+Change Component DesignItemId : Designator=J30 Old DesignItemId= New DesignItemId=CON3_1
+Change Component DesignItemId : Designator=J7 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J11 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J12 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J15 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J16 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J23 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J41 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J43 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J44 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J45 Old DesignItemId= New DesignItemId=CON4
+Change Component DesignItemId : Designator=J10 Old DesignItemId= New DesignItemId=CON4_0_Dup1
+Change Component DesignItemId : Designator=J42 Old DesignItemId= New DesignItemId=CON4_1
+Change Component DesignItemId : Designator=J8 Old DesignItemId= New DesignItemId=CON10_0
+Change Component DesignItemId : Designator=J27 Old DesignItemId= New DesignItemId=CON20_5
+Change Component DesignItemId : Designator=J2 Old DesignItemId= New DesignItemId=CON40_0
+Change Component DesignItemId : Designator=J3 Old DesignItemId= New DesignItemId=CON40_0
+Change Component DesignItemId : Designator=J4 Old DesignItemId= New DesignItemId=CON40_0
+Change Component DesignItemId : Designator=J5 Old DesignItemId= New DesignItemId=CON40_0
+Change Component DesignItemId : Designator=J46 Old DesignItemId= New DesignItemId=CONN JACK PWR_0_Dup1
+Change Component DesignItemId : Designator=Y3 Old DesignItemId= New DesignItemId=CRYSTAL-4_4
+Change Component DesignItemId : Designator=Y1 Old DesignItemId= New DesignItemId=CRYSTAL_2
+Change Component DesignItemId : Designator=Y4 Old DesignItemId= New DesignItemId=CRYSTAL_2
+Change Component DesignItemId : Designator=U2 Old DesignItemId= New DesignItemId=DCDC_SY8113
+Change Component DesignItemId : Designator=D5 Old DesignItemId= New DesignItemId=DIODE
+Change Component DesignItemId : Designator=D2 Old DesignItemId= New DesignItemId=DIODE_Dup1
+Change Component DesignItemId : Designator=D12 Old DesignItemId= New DesignItemId=DIODE_Dup1
+Change Component DesignItemId : Designator=D15 Old DesignItemId= New DesignItemId=DIODE_Dup1
+Change Component DesignItemId : Designator=D1 Old DesignItemId= New DesignItemId=DIODE_Dup2
+Change Component DesignItemId : Designator=D3 Old DesignItemId= New DesignItemId=DIODE_Dup2
+Change Component DesignItemId : Designator=D6 Old DesignItemId= New DesignItemId=DIODE_Dup2
+Change Component DesignItemId : Designator=D9 Old DesignItemId= New DesignItemId=DIODE_Dup2
+Change Component DesignItemId : Designator=D10 Old DesignItemId= New DesignItemId=DIODE_Dup2
+Change Component DesignItemId : Designator=D11 Old DesignItemId= New DesignItemId=DIODE_Dup2
+Change Component DesignItemId : Designator=ED1 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED2 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED3 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED4 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED5 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED6 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED7 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED8 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED9 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED10 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED11 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED12 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED13 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED14 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED15 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED16 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED17 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED18 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED19 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED20 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED21 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED22 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=ED23 Old DesignItemId= New DesignItemId=DIODE BI-DIR TRIG
+Change Component DesignItemId : Designator=U3 Old DesignItemId= New DesignItemId=DS8008_0
+Change Component DesignItemId : Designator=U5 Old DesignItemId= New DesignItemId=DS8008_0
+Change Component DesignItemId : Designator=U4 Old DesignItemId= New DesignItemId=FE1_1s_SSOP28_1
+Change Component DesignItemId : Designator=J13 Old DesignItemId= New DesignItemId=HDMI_CON_0
+Change Component DesignItemId : Designator=L4 Old DesignItemId= New DesignItemId=INDUCTOR_1_Dup1
+Change Component DesignItemId : Designator=L2 Old DesignItemId= New DesignItemId=INDUCTORS OF FERRITE
+Change Component DesignItemId : Designator=L7 Old DesignItemId= New DesignItemId=INDUCTORS OF FERRITE
+Change Component DesignItemId : Designator=L8 Old DesignItemId= New DesignItemId=INDUCTORS OF FERRITE
+Change Component DesignItemId : Designator=K1 Old DesignItemId= New DesignItemId=KEYB_0
+Change Component DesignItemId : Designator=K2 Old DesignItemId= New DesignItemId=KEYB_1
+Change Component DesignItemId : Designator=D4 Old DesignItemId= New DesignItemId=LED
+Change Component DesignItemId : Designator=J47 Old DesignItemId= New DesignItemId=LT101MB02000_0
+Change Component DesignItemId : Designator=U1 Old DesignItemId= New DesignItemId=MP2482DN_1
+Change Component DesignItemId : Designator=U22 Old DesignItemId= New DesignItemId=NLSV1T34
+Change Component DesignItemId : Designator=Q1 Old DesignItemId= New DesignItemId=NPN_1
+Change Component DesignItemId : Designator=Q2 Old DesignItemId= New DesignItemId=NPN_1
+Change Component DesignItemId : Designator=Q6 Old DesignItemId= New DesignItemId=NPN_1
+Change Component DesignItemId : Designator=J20 Old DesignItemId= New DesignItemId=PHONEJACK STEREO SW_2
+Change Component DesignItemId : Designator=J22 Old DesignItemId= New DesignItemId=PHONEJACK STEREO SW_2
+Change Component DesignItemId : Designator=R27 Old DesignItemId= New DesignItemId=R1005_0
+Change Component DesignItemId : Designator=R3 Old DesignItemId= New DesignItemId=R1005_0_Dup1
+Change Component DesignItemId : Designator=R4 Old DesignItemId= New DesignItemId=R1005_0_Dup1
+Change Component DesignItemId : Designator=R9 Old DesignItemId= New DesignItemId=R1005_0_Dup1
+Change Component DesignItemId : Designator=R151 Old DesignItemId= New DesignItemId=R1005_0_Dup1
+Change Component DesignItemId : Designator=R112 Old DesignItemId= New DesignItemId=R_0
+Change Component DesignItemId : Designator=R13 Old DesignItemId= New DesignItemId=R_1
+Change Component DesignItemId : Designator=R15 Old DesignItemId= New DesignItemId=R_1
+Change Component DesignItemId : Designator=R16 Old DesignItemId= New DesignItemId=R_1
+Change Component DesignItemId : Designator=R17 Old DesignItemId= New DesignItemId=R_1
+Change Component DesignItemId : Designator=R18 Old DesignItemId= New DesignItemId=R_1
+Change Component DesignItemId : Designator=R1 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R7 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R11 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R19 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R20 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R21 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R22 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R24 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R25 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R100 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R101 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R104 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R105 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R144 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R145 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R146 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R147 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R148 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R149 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R150 Old DesignItemId= New DesignItemId=R_Dup1
+Change Component DesignItemId : Designator=R23 Old DesignItemId= New DesignItemId=R_Dup2
+Change Component DesignItemId : Designator=R5 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R37 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R38 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R39 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R40 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R41 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R42 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R43 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R44 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R45 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R46 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R47 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R48 Old DesignItemId= New DesignItemId=RES 1B
+Change Component DesignItemId : Designator=R10 Old DesignItemId= New DesignItemId=RES
+Change Component DesignItemId : Designator=R14 Old DesignItemId= New DesignItemId=RES_0
+Change Component DesignItemId : Designator=R143 Old DesignItemId= New DesignItemId=RES_0
+Change Component DesignItemId : Designator=R29 Old DesignItemId= New DesignItemId=RESISTOR
+Change Component DesignItemId : Designator=R32 Old DesignItemId= New DesignItemId=RESISTOR
+Change Component DesignItemId : Designator=R33 Old DesignItemId= New DesignItemId=RESISTOR
+Change Component DesignItemId : Designator=R35 Old DesignItemId= New DesignItemId=RESISTOR
+Change Component DesignItemId : Designator=R36 Old DesignItemId= New DesignItemId=RESISTOR
+Change Component DesignItemId : Designator=R30 Old DesignItemId= New DesignItemId=RESISTOR_0
+Change Component DesignItemId : Designator=R34 Old DesignItemId= New DesignItemId=RESISTOR_0
+Change Component DesignItemId : Designator=R31 Old DesignItemId= New DesignItemId=RESISTOR_1
+Change Component DesignItemId : Designator=R121 Old DesignItemId= New DesignItemId=RESISTOR_1
+Change Component DesignItemId : Designator=R122 Old DesignItemId= New DesignItemId=RESISTOR_1
+Change Component DesignItemId : Designator=R123 Old DesignItemId= New DesignItemId=RESISTOR_1
+Change Component DesignItemId : Designator=R124 Old DesignItemId= New DesignItemId=RESISTOR_1
+Change Component DesignItemId : Designator=R125 Old DesignItemId= New DesignItemId=RESISTOR_1
+Change Component DesignItemId : Designator=R28 Old DesignItemId= New DesignItemId=RESISTOR_2
+Change Component DesignItemId : Designator=R106 Old DesignItemId= New DesignItemId=RESISTOR_2
+Change Component DesignItemId : Designator=R102 Old DesignItemId= New DesignItemId=RESISTOR_4
+Change Component DesignItemId : Designator=R103 Old DesignItemId= New DesignItemId=RESISTOR_4
+Change Component DesignItemId : Designator=R2 Old DesignItemId= New DesignItemId=RESISTOR_5
+Change Component DesignItemId : Designator=R6 Old DesignItemId= New DesignItemId=RESISTOR_Dup1
+Change Component DesignItemId : Designator=R8 Old DesignItemId= New DesignItemId=RESISTOR_Dup1
+Change Component DesignItemId : Designator=R107 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R108 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R109 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R110 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R111 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R113 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R114 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R115 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R116 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R117 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R118 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R119 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=R120 Old DesignItemId= New DesignItemId=RESISTOR_Dup2
+Change Component DesignItemId : Designator=C44 Old DesignItemId= New DesignItemId=SMALL CAP
+Change Component DesignItemId : Designator=C45 Old DesignItemId= New DesignItemId=SMALL CAP
+Change Component DesignItemId : Designator=C46 Old DesignItemId= New DesignItemId=SMALL CAP
+Change Component DesignItemId : Designator=C48 Old DesignItemId= New DesignItemId=SMALL CAP
+Change Component DesignItemId : Designator=C49 Old DesignItemId= New DesignItemId=SMALL CAP
+Change Component DesignItemId : Designator=C53 Old DesignItemId= New DesignItemId=SMALL CAP
+Change Component DesignItemId : Designator=C56 Old DesignItemId= New DesignItemId=SMALL CAP
+Change Component DesignItemId : Designator=C124 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C125 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C128 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C129 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C130 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C131 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C132 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C133 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C233 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=C234 Old DesignItemId= New DesignItemId=SMALL CAP_Dup1
+Change Component DesignItemId : Designator=R26 Old DesignItemId= New DesignItemId=SMALL R1
+Change Component DesignItemId : Designator=U18 Old DesignItemId= New DesignItemId=SWITCH_SY6280
+Change Component DesignItemId : Designator=J17 Old DesignItemId= New DesignItemId=T_FLASH_A
+Change Component DesignItemId : Designator=TP1 Old DesignItemId= New DesignItemId=T POINT R
+Change Component DesignItemId : Designator=TP2 Old DesignItemId= New DesignItemId=T POINT R
+Change Component DesignItemId : Designator=TP3 Old DesignItemId= New DesignItemId=T POINT R
+Change Component DesignItemId : Designator=TP4 Old DesignItemId= New DesignItemId=T POINT R
+Change Component DesignItemId : Designator=TP5 Old DesignItemId= New DesignItemId=T POINT R
+Change Component DesignItemId : Designator=TP6 Old DesignItemId= New DesignItemId=T POINT R
+Change Component DesignItemId : Designator=J14 Old DesignItemId= New DesignItemId=USB_A_1
+Change Component DesignItemId : Designator=CON2 Old DesignItemId= New DesignItemId=USBA_3
+Change Component DesignItemId : Designator=CON1 Old DesignItemId= New DesignItemId=USBA_4
+Change Component DesignItemId : Designator=L1 Old DesignItemId= New DesignItemId=VLS252012E_0
+Change Component DesignItemId : Designator=U23 Old DesignItemId= New DesignItemId=WK2124/VK3224/GM8412
+Change Component DesignItemId : Designator=U7 Old DesignItemId= New DesignItemId=XC6219_2
+Change Component DesignItemId : Designator=U17 Old DesignItemId= New DesignItemId=XC6219_2
+Change Component Comment : Designator=R12 Old Comment=01RES_0402_CC_680R 1% New Comment=680R 1%
+Change Component Comment : Designator=C15 Old Comment=02CAPP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=Q3 Old Comment=2N6756_0_SOT-23_2SK3018 New Comment=2SK3018
+Change Component Comment : Designator=Q4 Old Comment=2N6756_0_SOT-23_2SK3018 New Comment=2SK3018
+Change Component Comment : Designator=Q5 Old Comment=2N6756_0_SOT-23_2SK3018 New Comment=2SK3018
+Change Component Comment : Designator=Q10 Old Comment=2N6756_0_SOT-23_2SK3018 New Comment=2SK3018
+Change Component Comment : Designator=Q11 Old Comment=2N6756_0_SOT-23_2SK3018 New Comment=2SK3018
+Change Component Comment : Designator=U8 Old Comment=ALC5651_3_QFN40_5R00X5R00X1R00_ New Comment=ALC5651
+Change Component Comment : Designator=U19 Old Comment=AMPAK_SIP New Comment=AP6212
+Change Component Comment : Designator=Q43 Old Comment=APM2301_SOT-23_GM2307 New Comment=GM2307
+Change Component Comment : Designator=U9 Old Comment=AW8733A_2_TQFN_20L_AW8733TQR New Comment=AW8733TQR
+Change Component Comment : Designator=U10 Old Comment=AW8733A_2_TQFN_20L_AW8733TQR New Comment=AW8733TQR
+Change Component Comment : Designator=RTC1 Old Comment=BATTERY_5_12505WR2_3V New Comment=3V
+Change Component Comment : Designator=U6 Old Comment=BMA250_BMA250_BMA223 New Comment=BMA223
+Change Component Comment : Designator=C2 Old Comment=C1005_0_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C3 Old Comment=C1005_0_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C5 Old Comment=C1005_0_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C7 Old Comment=C1005_0_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C27 Old Comment=CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C28 Old Comment=CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C140 Old Comment=CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C141 Old Comment=CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C19 Old Comment=CAP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C30 Old Comment=CAP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C142 Old Comment=CAP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C198 Old Comment=CAP_NP_0402_CC_DISCRETE_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C199 Old Comment=CAP_NP_0402_CC_DISCRETE_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C23 Old Comment=CAP NP_3_0402_CC_27PF New Comment=27pF
+Change Component Comment : Designator=C24 Old Comment=CAP NP_3_0402_CC_27PF New Comment=27pF
+Change Component Comment : Designator=C203 Old Comment=CAP NP_3_0402_CC_27PF New Comment=27pF
+Change Component Comment : Designator=C204 Old Comment=CAP NP_3_0402_CC_27PF New Comment=27pF
+Change Component Comment : Designator=C16 Old Comment=CAP NP_3_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C29 Old Comment=CAP NP_3_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C6 Old Comment=CAP NP_3_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C205 Old Comment=CAP NP_3_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C206 Old Comment=CAP NP_3_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C231 Old Comment=CAP NP_3_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C34 Old Comment=CAP NP_4_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C137 Old Comment=CAP NP_4_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C139 Old Comment=CAP NP_4_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C138 Old Comment=CAP NP_4_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C17 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C20 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C21 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C33 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C57 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C62 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C67 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C72 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C136 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C160 Old Comment=CAP NP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C41 Old Comment=CAP NP_0402_CC_0.1UF/10V New Comment=0.1uF/10V
+Change Component Comment : Designator=C42 Old Comment=CAP NP_0402_CC_0.1UF/10V New Comment=0.1uF/10V
+Change Component Comment : Designator=C52 Old Comment=CAP NP_0402_CC_0.1UF/10V New Comment=0.1uF/10V
+Change Component Comment : Designator=C60 Old Comment=CAP NP_0402_CC_0.1UF/10V New Comment=0.1uF/10V
+Change Component Comment : Designator=C37 Old Comment=CAP NP_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C38 Old Comment=CAP NP_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C39 Old Comment=CAP NP_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C43 Old Comment=CAP NP_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C61 Old Comment=CAP NP_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C71 Old Comment=CAP NP_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C156 Old Comment=CAP NP_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C35 Old Comment=CAP NP_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C36 Old Comment=CAP NP_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C64 Old Comment=CAP NP_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C70 Old Comment=CAP NP_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C134 Old Comment=CAP NP_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C135 Old Comment=CAP NP_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C40 Old Comment=CAP NP_0402_CC_4.7UF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=C50 Old Comment=CAP NP_0402_CC_4.7UF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=C65 Old Comment=CAP NP_0402_CC_10NF/25V New Comment=10NF/25V
+Change Component Comment : Designator=C66 Old Comment=CAP NP_0402_CC_10NF/25V New Comment=10NF/25V
+Change Component Comment : Designator=C145 Old Comment=CAP NP_0402_CC_10PF New Comment=10pF
+Change Component Comment : Designator=C150 Old Comment=CAP NP_0402_CC_10PF New Comment=10pF
+Change Component Comment : Designator=C8 Old Comment=CAP NP_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C10 Old Comment=CAP NP_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C14 Old Comment=CAP NP_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C201 Old Comment=CAP NP_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C202 Old Comment=CAP NP_0402_CC_100NF New Comment=100NF
+Change Component Comment : Designator=C11 Old Comment=CAP NP_0402_CC_100PF New Comment=100pF
+Change Component Comment : Designator=C51 Old Comment=CAP NP_0402_CC_100PF/50V New Comment=100pF/50V
+Change Component Comment : Designator=C54 Old Comment=CAP NP_0402_CC_100PF/50V New Comment=100pF/50V
+Change Component Comment : Designator=C55 Old Comment=CAP NP_0402_CC_100PF/50V New Comment=100pF/50V
+Change Component Comment : Designator=C63 Old Comment=CAP NP_0402_CC_220PF New Comment=220pF
+Change Component Comment : Designator=C73 Old Comment=CAP NP_0402_CC_220PF New Comment=220pF
+Change Component Comment : Designator=C147 Old Comment=CAP NP_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=C148 Old Comment=CAP NP_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=C149 Old Comment=CAP NP_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=C151 Old Comment=CAP NP_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=C152 Old Comment=CAP NP_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=C153 Old Comment=CAP NP_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=C18 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C22 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C25 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C26 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C31 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C32 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C47 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C58 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C59 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C68 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C69 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C159 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C200 Old Comment=CAP NP_0603_CC_10UF New Comment=10uF
+Change Component Comment : Designator=C12 Old Comment=CAP NP_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C13 Old Comment=CAP NP_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C207 Old Comment=CAP NP_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C214 Old Comment=CAP NP_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=C9 Old Comment=CAP NP_C0805_22UF 16V New Comment=22uF 16V
+Change Component Comment : Designator=C210 Old Comment=CAP NP_C0805_22UF 16V New Comment=22uF 16V
+Change Component Comment : Designator=C230 Old Comment=CAP NP_CAP-6X6_220UF 16V New Comment=220uF 16V
+Change Component Comment : Designator=C232 Old Comment=CAP NP_CAP-6X6_220UF 16V New Comment=220uF 16V
+Change Component Comment : Designator=C216 Old Comment=CAP NP_CASE-B_220UF 10V New Comment=220uF 10V
+Change Component Comment : Designator=C155 Old Comment=CAPNP_DUP1_1_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C144 Old Comment=CAPNP_DUP1_1_0402_CC_0R New Comment=0R
+Change Component Comment : Designator=C158 Old Comment=CAPNP_DUP1_1_0402_CC_1UF New Comment=1uF
+Change Component Comment : Designator=C154 Old Comment=CAPNP_DUP1_1_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C157 Old Comment=CAPNP_DUP1_1_0402_CC_4.7UF New Comment=4.7uF
+Change Component Comment : Designator=C143 Old Comment=CAPNP_DUP1_1_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=C146 Old Comment=CAPNP_DUP1_1_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=J9 Old Comment=CON2_FIN-1_FAN New Comment=FAN
+Change Component Comment : Designator=J29 Old Comment=CON2_IDC2PIN_USB_ID New Comment=USB_ID
+Change Component Comment : Designator=J21 Old Comment=CON2_MIC-4015_MIC New Comment=MIC
+Change Component Comment : Designator=J18 Old Comment=CON2_SIP-2P-2D0_LINE_IN New Comment=LINE_IN
+Change Component Comment : Designator=J19 Old Comment=CON2_SIP-2P-2D0_LINE_OUT New Comment=LINE_OUT
+Change Component Comment : Designator=J1 Old Comment=CON2_SIP-2P-2D0_PH-2P New Comment=PH-2P
+Change Component Comment : Designator=J30 Old Comment=CON3_1_ANT-2_RF_3P New Comment=RF_3P
+Change Component Comment : Designator=J10 Old Comment=CON4_0_SIP-2P-2D0_FIN New Comment=FIN
+Change Component Comment : Designator=J42 Old Comment=CON4_1_SIP-3P-2D54-DEBUG_DEBUG New Comment=DEBUG
+Change Component Comment : Designator=J7 Old Comment=CON4_SIP-4P-2D0_4P New Comment=4P
+Change Component Comment : Designator=J12 Old Comment=CON4_SIP-4P-2D0_HOST0 New Comment=HOST0
+Change Component Comment : Designator=J15 Old Comment=CON4_SIP-4P-2D0_HOST3 New Comment=HOST3
+Change Component Comment : Designator=J16 Old Comment=CON4_SIP-4P-2D0_HOST4 New Comment=HOST4
+Change Component Comment : Designator=J11 Old Comment=CON4_SIP-4P-2D0_KEY New Comment=KEY
+Change Component Comment : Designator=J23 Old Comment=CON4_SIP-4P-2D0_SPK New Comment=SPK
+Change Component Comment : Designator=J43 Old Comment=CON4_SIP-4P-2D0_UART5 New Comment=UART5
+Change Component Comment : Designator=J44 Old Comment=CON4_SIP-4P-2D0_UART6 New Comment=UART6
+Change Component Comment : Designator=J45 Old Comment=CON4_SIP-4P-2D0_UART7 New Comment=UART7
+Change Component Comment : Designator=J41 Old Comment=CON4_SIP-4P-2D0_UART8 New Comment=UART8
+Change Component Comment : Designator=J8 Old Comment=CON10_0_DIP-CORE_CON4 New Comment=CON4
+Change Component Comment : Designator=J27 Old Comment=CON20_5_IDC30P-2D0_MIPI0 New Comment=MIPI0
+Change Component Comment : Designator=J2 Old Comment=CON40_0_AXK5F80337YG_AXK5F80337 New Comment=AXK5F80337YG
+Change Component Comment : Designator=J3 Old Comment=CON40_0_AXK5F80337YG_AXK5F80337 New Comment=AXK5F80337YG
+Change Component Comment : Designator=J4 Old Comment=CON40_0_AXK5F80337YG_AXK5F80337 New Comment=AXK5F80337YG
+Change Component Comment : Designator=J5 Old Comment=CON40_0_AXK5F80337YG_AXK5F80337 New Comment=AXK5F80337YG
+Change Component Comment : Designator=J46 Old Comment=CONN JACK PWR_0_DC044A_DC_5V New Comment=DC_5V
+Change Component Comment : Designator=Y3 Old Comment=CRYSTAL-4_4_Y3025_26MHZ-9PF New Comment=26MHz-9pF
+Change Component Comment : Designator=Y4 Old Comment=CRYSTAL_2_Y3025_11.0592MHZ New Comment=11.0592MHz
+Change Component Comment : Designator=Y1 Old Comment=CRYSTAL_2_Y3025_12MHZ20PF New Comment=12Mhz20pF
+Change Component Comment : Designator=U2 Old Comment=DCDC_SY8113_SOT23-6_SY8113B New Comment=SY8113B
+Change Component Comment : Designator=D3 Old Comment=DIODE_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=D10 Old Comment=DIODE_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=D11 Old Comment=DIODE_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=D2 Old Comment=DIODE_DO-214AB_B530C New Comment=B530C
+Change Component Comment : Designator=D15 Old Comment=DIODE_DO-214AC_M7 New Comment=M7
+Change Component Comment : Designator=D12 Old Comment=DIODE_DO-214AC_SS34 New Comment=SS34
+Change Component Comment : Designator=D6 Old Comment=DIODE_SOD-323_3V3-SOD323 New Comment=3V3-SOD323
+Change Component Comment : Designator=D9 Old Comment=DIODE_SOD-323_3V3-SOD323 New Comment=3V3-SOD323
+Change Component Comment : Designator=D1 Old Comment=DIODE_SOD-323_IN4148 New Comment=IN4148
+Change Component Comment : Designator=D5 Old Comment=DIODE_SOD-323_IN5819 New Comment=IN5819
+Change Component Comment : Designator=ED1 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED2 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED3 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED4 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED5 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED6 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED7 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED8 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED9 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED10 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED11 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED12 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED13 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED14 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED15 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED16 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED17 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED18 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED19 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED20 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED21 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED22 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=ED23 Old Comment=DIODE BI-DIR TRIG_0402_CC_ESD New Comment=ESD
+Change Component Comment : Designator=U3 Old Comment=DS8008_0_SLP2510P8_TPD4E05U06/A New Comment=TPD4E05U06/AZ1045-04F
+Change Component Comment : Designator=U5 Old Comment=DS8008_0_SLP2510P8_TPD4E05U06/A New Comment=TPD4E05U06/AZ1045-04F
+Change Component Comment : Designator=U4 Old Comment=FE1_1S_SSOP28_1_GL850G_GL850G New Comment=GL850G
+Change Component Comment : Designator=J13 Old Comment=HDMI_CON_0_HDMI_2_HDMI_CON New Comment=HDMI_CON
+Change Component Comment : Designator=L4 Old Comment=INDUCTOR_1_IND2520_2.2UH New Comment=2.2uH
+Change Component Comment : Designator=L2 Old Comment=INDUCTORS OF FERRITE_L5D18_2.2U New Comment=2.2uH
+Change Component Comment : Designator=L7 Old Comment=INDUCTORS OF FERRITE_L5D18_2.2U New Comment=2.2uH
+Change Component Comment : Designator=L8 Old Comment=INDUCTORS OF FERRITE_L5D18_2.2U New Comment=2.2uH
+Change Component Comment : Designator=K1 Old Comment=KEYB_0_TS-039_VOL+/RECOVERY New Comment=VOL+/RECOVERY
+Change Component Comment : Designator=K2 Old Comment=KEYB_1_TS-037-DIP_RST New Comment=RST
+Change Component Comment : Designator=D4 Old Comment=LED_LED0805_RED New Comment=RED
+Change Component Comment : Designator=J47 Old Comment=LT101MB02000_0_FPC40P-0D5-B_FPC New Comment=FPC40
+Change Component Comment : Designator=U1 Old Comment=MP2482DN_1_SO-8-A_MP2482DN New Comment=MP2482DN
+Change Component Comment : Designator=U22 Old Comment=NLSV1T34_ULLGA6_1P45X1_0P5MM_IC New Comment=NLSV1T34AMX1TCG
+Change Component Comment : Designator=Q6 Old Comment=NPN_1_SOT-23_2SK3018 New Comment=2SK3018
+Change Component Comment : Designator=Q1 Old Comment=NPN_1_SOT-23_MMBT3904 New Comment=MMBT3904
+Change Component Comment : Designator=Q2 Old Comment=NPN_1_SOT-23_MMBT3904 New Comment=MMBT3904
+Change Component Comment : Designator=J20 Old Comment=PHONEJACK STEREO SW_2_PJ-3537_P New Comment=PHONE
+Change Component Comment : Designator=J22 Old Comment=PHONEJACK STEREO SW_2_PJ-3537_P New Comment=PHONE
+Change Component Comment : Designator=R9 Old Comment=R1005_0_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R4 Old Comment=R1005_0_0402_CC_8.2K New Comment=8.2K
+Change Component Comment : Designator=R3 Old Comment=R1005_0_0402_CC_40.2K 1% New Comment=40.2K 1%
+Change Component Comment : Designator=R27 Old Comment=R1005_0_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R151 Old Comment=R1005_0_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R112 Old Comment=R_0_0402_CC_100R New Comment=100R
+Change Component Comment : Designator=R13 Old Comment=R_1_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R15 Old Comment=R_1_0402_CC_20K New Comment=20K
+Change Component Comment : Designator=R18 Old Comment=R_1_0402_CC_47K New Comment=47K
+Change Component Comment : Designator=R16 Old Comment=R_1_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R17 Old Comment=R_1_0402_CC_510K New Comment=510K
+Change Component Comment : Designator=R1 Old Comment=R_0402_CC_0R New Comment=0R
+Change Component Comment : Designator=R22 Old Comment=R_0402_CC_1.5K New Comment=1.5K
+Change Component Comment : Designator=R25 Old Comment=R_0402_CC_1.5K New Comment=1.5K
+Change Component Comment : Designator=R104 Old Comment=R_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R11 Old Comment=R_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R21 Old Comment=R_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R24 Old Comment=R_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R146 Old Comment=R_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R149 Old Comment=R_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R150 Old Comment=R_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R145 Old Comment=R_0402_CC_5.1K New Comment=5.1K
+Change Component Comment : Designator=R19 Old Comment=R_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R20 Old Comment=R_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R105 Old Comment=R_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R144 Old Comment=R_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R147 Old Comment=R_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R148 Old Comment=R_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R23 Old Comment=R_0402_CC_22R New Comment=22R
+Change Component Comment : Designator=R7 Old Comment=R_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R100 Old Comment=R_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R101 Old Comment=R_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R38 Old Comment=RES 1B_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R39 Old Comment=RES 1B_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R44 Old Comment=RES 1B_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R47 Old Comment=RES 1B_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R48 Old Comment=RES 1B_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R37 Old Comment=RES 1B_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R42 Old Comment=RES 1B_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R43 Old Comment=RES 1B_0402_CC_10K New Comment=10K
+Change Component Comment : Designator=R5 Old Comment=RES 1B_0402_CC_10R New Comment=10R
+Change Component Comment : Designator=R45 Old Comment=RES 1B_0402_CC_470R New Comment=470R
+Change Component Comment : Designator=R46 Old Comment=RES 1B_0402_CC_470R New Comment=470R
+Change Component Comment : Designator=R40 Old Comment=RES 1B_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=R41 Old Comment=RES 1B_0603_CC_22UF New Comment=22uF
+Change Component Comment : Designator=R14 Old Comment=RES_0_0402_CC_1M New Comment=1M
+Change Component Comment : Designator=R143 Old Comment=RES_0_0402_CC_1M New Comment=1M
+Change Component Comment : Designator=R10 Old Comment=RES_0402_CC_DISCRETE_1K New Comment=1K
+Change Component Comment : Designator=R30 Old Comment=RESISTOR_0_0402_CC_2K2 New Comment=2K2
+Change Component Comment : Designator=R34 Old Comment=RESISTOR_0_0402_CC_2K2 New Comment=2K2
+Change Component Comment : Designator=R31 Old Comment=RESISTOR_1_0402_CC_100R New Comment=100R
+Change Component Comment : Designator=R121 Old Comment=RESISTOR_1_0402_CC_NC/10K New Comment=NC/10K
+Change Component Comment : Designator=R122 Old Comment=RESISTOR_1_0402_CC_NC/10K New Comment=NC/10K
+Change Component Comment : Designator=R123 Old Comment=RESISTOR_1_0402_CC_NC/10K New Comment=NC/10K
+Change Component Comment : Designator=R124 Old Comment=RESISTOR_1_0402_CC_NC/10K New Comment=NC/10K
+Change Component Comment : Designator=R125 Old Comment=RESISTOR_1_0402_CC_NC/10K New Comment=NC/10K
+Change Component Comment : Designator=R106 Old Comment=RESISTOR_2_0402_CC_4.7K New Comment=4.7K
+Change Component Comment : Designator=R28 Old Comment=RESISTOR_2_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R102 Old Comment=RESISTOR_4_0402_CC_3.3K New Comment=3.3K
+Change Component Comment : Designator=R103 Old Comment=RESISTOR_4_0402_CC_5.1K New Comment=5.1K
+Change Component Comment : Designator=R2 Old Comment=RESISTOR_5_0402_CC_100K New Comment=100K
+Change Component Comment : Designator=R119 Old Comment=RESISTOR_0402_CC_0R New Comment=0R
+Change Component Comment : Designator=R29 Old Comment=RESISTOR_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R36 Old Comment=RESISTOR_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=R8 Old Comment=RESISTOR_0402_CC_10K 1% New Comment=10K 1%
+Change Component Comment : Designator=R113 Old Comment=RESISTOR_0402_CC_22R New Comment=22R
+Change Component Comment : Designator=R114 Old Comment=RESISTOR_0402_CC_22R New Comment=22R
+Change Component Comment : Designator=R115 Old Comment=RESISTOR_0402_CC_22R New Comment=22R
+Change Component Comment : Designator=R116 Old Comment=RESISTOR_0402_CC_22R New Comment=22R
+Change Component Comment : Designator=R117 Old Comment=RESISTOR_0402_CC_22R New Comment=22R
+Change Component Comment : Designator=R118 Old Comment=RESISTOR_0402_CC_22R New Comment=22R
+Change Component Comment : Designator=R32 Old Comment=RESISTOR_0402_CC_33R New Comment=33R
+Change Component Comment : Designator=R33 Old Comment=RESISTOR_0402_CC_33R New Comment=33R
+Change Component Comment : Designator=R107 Old Comment=RESISTOR_0402_CC_47K New Comment=47K
+Change Component Comment : Designator=R108 Old Comment=RESISTOR_0402_CC_47K New Comment=47K
+Change Component Comment : Designator=R109 Old Comment=RESISTOR_0402_CC_47K New Comment=47K
+Change Component Comment : Designator=R110 Old Comment=RESISTOR_0402_CC_47K New Comment=47K
+Change Component Comment : Designator=R111 Old Comment=RESISTOR_0402_CC_47K New Comment=47K
+Change Component Comment : Designator=R6 Old Comment=RESISTOR_0402_CC_75K 1% New Comment=75K 1%
+Change Component Comment : Designator=R35 Old Comment=RESISTOR_0402_CC_NC New Comment=NC
+Change Component Comment : Designator=R120 Old Comment=RESISTOR_0402_CC_NC/0R New Comment=NC/0R
+Change Component Comment : Designator=C124 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C125 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C128 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C129 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C130 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C131 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C132 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C133 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C233 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C234 Old Comment=SMALL CAP_0402_CC_0.1UF New Comment=0.1uF
+Change Component Comment : Designator=C45 Old Comment=SMALL CAP_0402_CC_1UF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C46 Old Comment=SMALL CAP_0402_CC_1UF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C48 Old Comment=SMALL CAP_0402_CC_2.2UF/10V New Comment=2.2uF/10V
+Change Component Comment : Designator=C49 Old Comment=SMALL CAP_0402_CC_2.2UF/10V New Comment=2.2uF/10V
+Change Component Comment : Designator=C53 Old Comment=SMALL CAP_0402_CC_2.2UF/10V New Comment=2.2uF/10V
+Change Component Comment : Designator=C56 Old Comment=SMALL CAP_0402_CC_2.2UF/10V New Comment=2.2uF/10V
+Change Component Comment : Designator=C44 Old Comment=SMALL CAP_0402_CC_4.7UF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=R26 Old Comment=SMALL R1_0402_CC_1K New Comment=1K
+Change Component Comment : Designator=U18 Old Comment=SWITCH_SY6280_SOT_23_5_LPW5206 New Comment=LPW5206
+Change Component Comment : Designator=J17 Old Comment=T_FLASH_A_T-FLASH-A_T_FLASH_A New Comment=T_FLASH_A
+Change Component Comment : Designator=TP1 Old Comment=T POINT R_SCREW_T POINT R New Comment=T POINT R
+Change Component Comment : Designator=TP2 Old Comment=T POINT R_SCREW_T POINT R New Comment=T POINT R
+Change Component Comment : Designator=TP3 Old Comment=T POINT R_SCREW_T POINT R New Comment=T POINT R
+Change Component Comment : Designator=TP4 Old Comment=T POINT R_SCREW_T POINT R New Comment=T POINT R
+Change Component Comment : Designator=TP5 Old Comment=T POINT R_SCREW_T POINT R New Comment=T POINT R
+Change Component Comment : Designator=TP6 Old Comment=T POINT R_SCREW_T POINT R New Comment=T POINT R
+Change Component Comment : Designator=J14 Old Comment=USB_A_1_USB-A_USB_B New Comment=USB_B
+Change Component Comment : Designator=CON2 Old Comment=USBA_3_USB-3-A_USB_A_30 New Comment=USB_A_30
+Change Component Comment : Designator=CON1 Old Comment=USBA_4_USB-3-A_USB_A_30 New Comment=USB_A_30
+Change Component Comment : Designator=L1 Old Comment=VLS252012E_0_L8D28_4.7UH 4A New Comment=4.7uH 4A
+Change Component Comment : Designator=U23 Old Comment=WK2124/VK3224/GM8412_WK2124_WK2 New Comment=WK2124/VK3224/GM8412
+Change Component Comment : Designator=U17 Old Comment=XC6219_2_SOT23-5_XC6210B332MR-G New Comment=XC6210B332MR-G
+Change Component Comment : Designator=U7 Old Comment=XC6219_2_SOT23-5_XC6219282MR New Comment=XC6219282MR
+Change Component Description : Designator=C13 Old Description= New Description=cap,10.00uF,+/-10%,10V,X5R,C0805
+Change Component Description : Designator=C138 Old Description= New Description=cap,10.00uF,+/-10%,10V,X5R,C0805
+Change Component Description : Designator=C200 Old Description= New Description=cap,10.00uF,+/-10%,10V,X5R,C0805
+Change Component Description : Designator=C12 Old Description= New Description=cap,22.00uF,+/-10%,10V,X5R,C0805
+Change Component Description : Designator=C207 Old Description= New Description=cap,22.00uF,+/-10%,10V,X5R,C0805
+Change Component Description : Designator=C214 Old Description= New Description=cap,22.00uF,+/-10%,10V,X5R,C0805
+Change Component Description : Designator=C14 Old Description= New Description=cap,100.00nF,+/-10%,16V,X5R,C0402
+Change Component Description : Designator=C34 Old Description= New Description=cap,100.00nF,+/-10%,16V,X5R,C0402
+Change Component Description : Designator=C137 Old Description= New Description=cap,100.00nF,+/-10%,16V,X5R,C0402
+Change Component Description : Designator=C139 Old Description= New Description=cap,100.00nF,+/-10%,16V,X5R,C0402
+Change Component Description : Designator=C201 Old Description= New Description=cap,100.00nF,+/-10%,16V,X5R,C0402
+Change Component Description : Designator=C202 Old Description= New Description=cap,100.00nF,+/-10%,16V,X5R,C0402
+Change Component Description : Designator=C8 Old Description= New Description=cap,100.00nF,+/-10%,25V,X5R,C0402
+Change Component Description : Designator=C10 Old Description= New Description=cap,100.00nF,+/-10%,25V,X5R,C0402
+Change Component Description : Designator=C11 Old Description= New Description=cap,100.00pF,+/-5%,50V,C0G,C0402
+Change Component Description : Designator=C45 Old Description= New Description=CAP,MLCC,1uF,+/-10%,X5R,6.3V,SMD0402
+Change Component Description : Designator=C46 Old Description= New Description=CAP,MLCC,1uF,+/-10%,X5R,6.3V,SMD0402
+Change Component Description : Designator=C48 Old Description= New Description=CAP,MLCC,2.2uF,+/-10%,X5R,6.3V,SMD0603
+Change Component Description : Designator=C49 Old Description= New Description=CAP,MLCC,2.2uF,+/-10%,X5R,6.3V,SMD0603
+Change Component Description : Designator=C53 Old Description= New Description=CAP,MLCC,2.2uF,+/-10%,X5R,6.3V,SMD0603
+Change Component Description : Designator=C56 Old Description= New Description=CAP,MLCC,2.2uF,+/-10%,X5R,6.3V,SMD0603
+Change Component Description : Designator=C44 Old Description= New Description=CAP,MLCC,4.7uF,+/-10%,X5R,6.3V,SMD0603
+Change Component Description : Designator=C159 Old Description= New Description=CAP,MLCC,4.7uF,+/-10%,X5R,6.3V,SMD0603
+Change Component Description : Designator=C145 Old Description= New Description=CAP,MLCC,8pF,+/-0.5pF,NPO,6.3V,SMD0402
+Change Component Description : Designator=C150 Old Description= New Description=CAP,MLCC,8pF,+/-0.5pF,NPO,6.3V,SMD0402
+Change Component Description : Designator=C6 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C16 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C29 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C147 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C148 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C149 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C151 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C152 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C153 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C156 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C160 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C205 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C206 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C231 Old Description= New Description=CAP,MLCC,100nF,+/-10%,X7R,6.3V,SMD0402
+Change Component Description : Designator=C198 Old Description= New Description=CAP CER 0.22UF 6.3V 20% X5R 0201
+Change Component Description : Designator=C199 Old Description= New Description=CAP CER 0.22UF 10V 20% X5R 0201
+Change Component Description : Designator=U9 Old Description= New Description=Class D Audio AMP
+Change Component Description : Designator=U10 Old Description= New Description=Class D Audio AMP
+Change Component Description : Designator=L4 Old Description= New Description=CoilInd,Shielded(SHLD),2.2uH@100KHz,+/-30%,1.09A,110mOhm,SMD,3.0*3.0*1.0
+Change Component Description : Designator=Y3 Old Description= New Description=Crystal,37.400MHz,+/-20ppm,12pF,SMD3225,-10°C ~ +60   °C
+Change Component Description : Designator=ED1 Old Description= New Description=ESD
+Change Component Description : Designator=ED2 Old Description= New Description=ESD
+Change Component Description : Designator=ED3 Old Description= New Description=ESD
+Change Component Description : Designator=ED4 Old Description= New Description=ESD
+Change Component Description : Designator=ED5 Old Description= New Description=ESD
+Change Component Description : Designator=ED6 Old Description= New Description=ESD
+Change Component Description : Designator=ED7 Old Description= New Description=ESD
+Change Component Description : Designator=ED8 Old Description= New Description=ESD
+Change Component Description : Designator=ED9 Old Description= New Description=ESD
+Change Component Description : Designator=ED10 Old Description= New Description=ESD
+Change Component Description : Designator=ED11 Old Description= New Description=ESD
+Change Component Description : Designator=ED12 Old Description= New Description=ESD
+Change Component Description : Designator=ED13 Old Description= New Description=ESD
+Change Component Description : Designator=ED14 Old Description= New Description=ESD
+Change Component Description : Designator=ED15 Old Description= New Description=ESD
+Change Component Description : Designator=ED16 Old Description= New Description=ESD
+Change Component Description : Designator=ED17 Old Description= New Description=ESD
+Change Component Description : Designator=ED18 Old Description= New Description=ESD
+Change Component Description : Designator=ED19 Old Description= New Description=ESD
+Change Component Description : Designator=ED20 Old Description= New Description=ESD
+Change Component Description : Designator=ED21 Old Description= New Description=ESD
+Change Component Description : Designator=ED22 Old Description= New Description=ESD
+Change Component Description : Designator=ED23 Old Description= New Description=ESD
+Change Component Description : Designator=U22 Old Description= New Description=IC VXLTR 1 BIT DUAL-SUPPLY 0.9-4.5V 613AF
+Change Component Description : Designator=U18 Old Description= New Description=Low Loss Power Distribution Switch
+Change Component Description : Designator=U3 Old Description= New Description=NC
+Change Component Description : Designator=U5 Old Description= New Description=NC
+Change Component Description : Designator=L2 Old Description= New Description=Power Inductor,3.3uH,0.2,IND_404030
+Change Component Description : Designator=L7 Old Description= New Description=Power Inductor,3.3uH,0.2,IND_404030
+Change Component Description : Designator=L8 Old Description= New Description=Power Inductor,3.3uH,0.2,IND_404030
+Change Component Description : Designator=R31 Old Description= New Description=RES,thick film,10KOhm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R113 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R114 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R115 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R116 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R117 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R118 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R119 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R120 Old Description= New Description=RES,thick film,33Ohm,+/-5%,1/16W,SMD0402
+Change Component Description : Designator=R10 Old Description= New Description=RES MF 10.0K 1/16W 1% 0402
+Change Component Description : Designator=C40 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C41 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C42 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C50 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C52 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C57 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C58 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C59 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C60 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C61 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C62 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C63 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C64 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C67 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C68 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C69 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C70 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C71 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C72 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C73 Old Description= New Description=RoHS CHIP CAP 0.1uF +10/-10% X7R
+Change Component Description : Designator=C65 Old Description= New Description=RoHS CHIP CAP 0.47uF +10/-10% X5R
+Change Component Description : Designator=C66 Old Description= New Description=RoHS CHIP CAP 0.47uF +10/-10% X5R
+Change Component Description : Designator=C37 Old Description= New Description=RoHS CHIP CAP 100pF +10/-10% X7R
+Change Component Description : Designator=C38 Old Description= New Description=RoHS CHIP CAP 100pF +10/-10% X7R
+Change Component Description : Designator=C39 Old Description= New Description=RoHS CHIP CAP 100pF +10/-10% X7R
+Change Component Description : Designator=C43 Old Description= New Description=RoHS CHIP CAP 100pF +10/-10% X7R
+Change Component Description : Designator=C51 Old Description= New Description=RoHS CHIP CAP 100pF +10/-10% X7R
+Change Component Description : Designator=C54 Old Description= New Description=RoHS CHIP CAP 100pF +10/-10% X7R
+Change Component Description : Designator=C55 Old Description= New Description=RoHS CHIP CAP 100pF +10/-10% X7R
+Change Component Description : Designator=R35 Old Description= New Description=ROHS CHIP RES 1K 1/16W 5%
+Change Component Description : Designator=R36 Old Description= New Description=ROHS CHIP RES 1K 1/16W 5%
+Change Component Description : Designator=R5 Old Description= New Description=ROHS CHIP RES 4.7Ohm 1/8W +/-5%
+Change Component Description : Designator=R107 Old Description= New Description=ROHS CHIP RES 10K 1/16W +/-5%
+Change Component Description : Designator=R108 Old Description= New Description=ROHS CHIP RES 10K 1/16W +/-5%
+Change Component Description : Designator=R109 Old Description= New Description=ROHS CHIP RES 10K 1/16W +/-5%
+Change Component Description : Designator=R110 Old Description= New Description=ROHS CHIP RES 10K 1/16W +/-5%
+Change Component Description : Designator=R111 Old Description= New Description=ROHS CHIP RES 10K 1/16W +/-5%
+Change Component Description : Designator=R38 Old Description= New Description=ROHS CHIP RES 10KOhm 1/16W +/-5%
+Change Component Description : Designator=R39 Old Description= New Description=ROHS CHIP RES 10KOhm 1/16W +/-5%
+Change Component Description : Designator=R47 Old Description= New Description=ROHS CHIP RES 10KOhm 1/16W +/-5%
+Change Component Description : Designator=R48 Old Description= New Description=ROHS CHIP RES 10KOhm 1/16W +/-5%
+Change Component Description : Designator=R40 Old Description= New Description=ROHS CHIP RES 22Ohm 1/16W +/-5%
+Change Component Description : Designator=R41 Old Description= New Description=ROHS CHIP RES 22Ohm 1/16W +/-5%
+Change Component Description : Designator=R29 Old Description= New Description=ROHS CHIP RES 33R 1/16W 5%
+Change Component Description : Designator=R32 Old Description= New Description=ROHS CHIP RES 33R 1/16W 5%
+Change Component Description : Designator=R33 Old Description= New Description=ROHS CHIP RES 33R 1/16W 5%
+Change Component Description : Designator=R37 Old Description= New Description=ROHS CHIP RES 100KOhm 1/16W +/-5%
+Change Component Description : Designator=R42 Old Description= New Description=ROHS CHIP RES 470Ohm 1/16W +/-5%
+Change Component Description : Designator=R43 Old Description= New Description=ROHS CHIP RES 470Ohm 1/16W +/-5%
+Change Component Description : Designator=R44 Old Description= New Description=ROHS CHIP RES 470Ohm 1/16W +/-5%
+Change Component Description : Designator=R45 Old Description= New Description=ROHS CHIP RES 470Ohm 1/16W +/-5%
+Change Component Description : Designator=R46 Old Description= New Description=ROHS CHIP RES 470Ohm 1/16W +/-5%
+Change Component Description : Designator=R34 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R102 Old Description= New Description=通用厚膜电阻,3K3,+/-0.5%,R0402,1/16W.
+Change Component Description : Designator=R103 Old Description= New Description=通用厚膜电阻,5K1,+/-0.5%,R0402,1/16W.
+Change Component Description : Designator=R8 Old Description= New Description=通用厚膜电阻,10K,+/-1%,R0402,1/16W.
+Change Component Description : Designator=R2 Old Description= New Description=通用厚膜电阻,10K,+/-5%,R0402,1/16W.
+Change Component Description : Designator=R28 Old Description= New Description=通用厚膜电阻,10K,+/-5%,R0402,1/16W.
+Change Component Description : Designator=R106 Old Description= New Description=通用厚膜电阻,10K,+/-5%,R0402,1/16W.
+Change Component Description : Designator=R6 Old Description= New Description=通用厚膜电阻,75K,+/-1%,R0402,1/16W.
+Added Pin To Net: NetName=CIF_CLKO_ Pin=J4-38
+Added Pin To Net: NetName=32KHZ Pin=J4-61
+Added Pin To Net: NetName=32KHZ Pin=U19-24
+Change Net Name : Old Net Name=32KHZ New Net Name=WIFIBT_32KIN
+Change Net Name : Old Net Name=BT_HOST_WAKE_L New Net Name=BT_HOST_WAKE
+Change Net Name : Old Net Name=BT_REG_ON_H New Net Name=BT_RST
+Change Net Name : Old Net Name=BT_WAKE_L New Net Name=BT_WAKE
+Change Net Name : Old Net Name=CIF_CLKO_ New Net Name=ADC2
+Change Net Name : Old Net Name=MIC+ New Net Name=MIC1P
+Change Net Name : Old Net Name=MIC- New Net Name=MIC1N
+Change Net Name : Old Net Name=N66062995 New Net Name=NetJ17_5
+Change Net Name : Old Net Name=N66217686 New Net Name=NetR12_2
+Change Net Name : Old Net Name=N66217698 New Net Name=NetR17_1
+Change Net Name : Old Net Name=N66217758 New Net Name=NetR16_1
+Change Net Name : Old Net Name=N66217781 New Net Name=NetR13_1
+Change Net Name : Old Net Name=N66433199 New Net Name=NetC64_1
+Change Net Name : Old Net Name=N66433229 New Net Name=NetC64_2
+Change Net Name : Old Net Name=N66433235 New Net Name=NetC59_1
+Change Net Name : Old Net Name=N66433277 New Net Name=NetC63_1
+Change Net Name : Old Net Name=N66433285 New Net Name=NetC63_2
+Change Net Name : Old Net Name=N66433291 New Net Name=NetC62_1
+Change Net Name : Old Net Name=N66433293 New Net Name=NetC61_1
+Change Net Name : Old Net Name=N66433849 New Net Name=NetC70_1
+Change Net Name : Old Net Name=N66433851 New Net Name=NetC70_2
+Change Net Name : Old Net Name=N66433857 New Net Name=NetC69_1
+Change Net Name : Old Net Name=N66433907 New Net Name=NetC73_1
+Change Net Name : Old Net Name=N66433918 New Net Name=NetC73_2
+Change Net Name : Old Net Name=N66433933 New Net Name=NetC72_1
+Change Net Name : Old Net Name=N66433935 New Net Name=NetC71_1
+Change Net Name : Old Net Name=N66517156 New Net Name=NetR106_1
+Change Net Name : Old Net Name=N66702662 New Net Name=NetD1_1
+Change Net Name : Old Net Name=N66880773 New Net Name=NetJ22_4
+Change Net Name : Old Net Name=N66880893 New Net Name=NetC66_1
+Change Net Name : Old Net Name=N66880895 New Net Name=NetC65_1
+Change Net Name : Old Net Name=N66883439 New Net Name=NetC53_1
+Change Net Name : Old Net Name=N66883441 New Net Name=NetC56_1
+Change Net Name : Old Net Name=N66883471 New Net Name=NetC49_1
+Change Net Name : Old Net Name=N66883473 New Net Name=NetC49_2
+Change Net Name : Old Net Name=N66883488 New Net Name=NetC48_1
+Change Net Name : Old Net Name=N66883490 New Net Name=NetC48_2
+Change Net Name : Old Net Name=N66883550 New Net Name=NetC44_2
+Change Net Name : Old Net Name=N66883601 New Net Name=NetR29_2
+Change Net Name : Old Net Name=N66883603 New Net Name=NetR33_2
+Change Net Name : Old Net Name=N66883615 New Net Name=NetR32_2
+Change Net Name : Old Net Name=N66883707 New Net Name=NetC45_2
+Change Net Name : Old Net Name=N66883709 New Net Name=NetC46_2
+Change Net Name : Old Net Name=N66884938 New Net Name=NetC47_2
+Change Net Name : Old Net Name=N66890210 New Net Name=NetJ22_5
+Change Net Name : Old Net Name=N67231201 New Net Name=NetD4_1
+Change Net Name : Old Net Name=N67231230 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=N67327943 New Net Name=NetC7_2
+Change Net Name : Old Net Name=N67327964 New Net Name=NetR3_1
+Change Net Name : Old Net Name=N67327970 New Net Name=NetC3_2
+Change Net Name : Old Net Name=N67388234 New Net Name=NetC28_1
+Change Net Name : Old Net Name=N67388245 New Net Name=NetC27_1
+Change Net Name : Old Net Name=N67453760 New Net Name=NetC37_2
+Change Net Name : Old Net Name=N67453776 New Net Name=NetC38_2
+Change Net Name : Old Net Name=N67453925 New Net Name=NetC43_2
+Change Net Name : Old Net Name=N67453941 New Net Name=NetC39_2
+Change Net Name : Old Net Name=N67468275 New Net Name=NetJ20_5
+Change Net Name : Old Net Name=N67469175 New Net Name=NetR27_2
+Change Net Name : Old Net Name=N67471490 New Net Name=NetC141_1
+Change Net Name : Old Net Name=N67471512 New Net Name=NetC140_1
+Change Net Name : Old Net Name=N67473029 New Net Name=NetQ6_3
+Change Net Name : Old Net Name=N67473031 New Net Name=NetJ29_2
+Change Net Name : Old Net Name=N67473058 New Net Name=NetQ6_1
+Change Net Name : Old Net Name=N67504923 New Net Name=NetC143_1
+Change Net Name : Old Net Name=N67504937 New Net Name=NetC157_2
+Change Net Name : Old Net Name=N67505333 New Net Name=NetC145_1
+Change Net Name : Old Net Name=N67505372 New Net Name=NetC158_2
+Change Net Name : Old Net Name=N67505620 New Net Name=NetL4_2
+Change Net Name : Old Net Name=N67527802 New Net Name=NetC8_1
+Change Net Name : Old Net Name=N67527804 New Net Name=NetC8_2
+Change Net Name : Old Net Name=N67527850 New Net Name=NetC11_2
+Change Net Name : Old Net Name=N67609393 New Net Name=NetJ46_2
+Change Net Name : Old Net Name=N67641822 New Net Name=NetJ2_6
+Change Net Name : Old Net Name=N67665678 New Net Name=NetC125_2
+Change Net Name : Old Net Name=N67665681 New Net Name=NetC124_2
+Change Net Name : Old Net Name=N67665720 New Net Name=NetC233_2
+Change Net Name : Old Net Name=N67665723 New Net Name=NetC234_2
+Change Net Name : Old Net Name=N67669392 New Net Name=NetJ47_22
+Change Net Name : Old Net Name=N67671105 New Net Name=NetJ10_2
+Change Net Name : Old Net Name=N67671108 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=N67682434 New Net Name=NetJ46_4
+Change Net Name : Old Net Name=N667004640 New Net Name=NetK1_1
+Change Net Name : Old Net Name=N673279876 New Net Name=NetC3_1
+Change Net Name : Old Net Name=N676702240 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=SDIO0_CLK New Net Name=WIFI_CLK
+Change Net Name : Old Net Name=SDIO0_CMD New Net Name=WIFI_CMD
+Change Net Name : Old Net Name=SDIO0_D0 New Net Name=WIFI_D0
+Change Net Name : Old Net Name=SDIO0_D1 New Net Name=WIFI_D1
+Change Net Name : Old Net Name=SDIO0_D2 New Net Name=WIFI_D2
+Change Net Name : Old Net Name=SDIO0_D3 New Net Name=WIFI_D3
+Change Net Name : Old Net Name=SPK_CTL_H New Net Name=SPK_CTL
+Change Net Name : Old Net Name=TOUCH_INT_H New Net Name=GPIO1_C6
+Change Net Name : Old Net Name=WIFI_HOST_WAKE_L New Net Name=WIFI_HOST_WAKE
+Change Net Name : Old Net Name=WIFI_REG_ON_H New Net Name=WIFI_REG_ON
+Added Class: Name=01
+Added Class: Name=02
+Added Class: Name=03
+Added Class: Name=04
+Added Class: Name=07
+Added Class: Name=08
+Added Class: Name=09
+Added Class: Name=13

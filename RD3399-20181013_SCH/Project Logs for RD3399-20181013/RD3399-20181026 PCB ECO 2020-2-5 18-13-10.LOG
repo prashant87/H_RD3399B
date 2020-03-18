@@ -1,0 +1,24 @@
+Added Component: Designator=C147(0805C)
+Added Component: Designator=C148(0805C)
+Added Component: Designator=C149(0805C)
+Added Component: Designator=C151(0805C)
+Added Component: Designator=C152(0805C)
+Added Component: Designator=C153(0805C)
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=SDIO_D0 Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=SDIO_D1 Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=SDIO_D2 Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=SDIO_D3 Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=SDIO_CMD Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=SDIO_CLK Pin=C153-2
+Added Member To Class: ClassName=09 Member=Component C147 NC
+Added Member To Class: ClassName=09 Member=Component C148 NC
+Added Member To Class: ClassName=09 Member=Component C149 NC
+Added Member To Class: ClassName=09 Member=Component C151 NC
+Added Member To Class: ClassName=09 Member=Component C152 NC
+Added Member To Class: ClassName=09 Member=Component C153 NC

@@ -1,0 +1,44 @@
+Change Component Footprint: Designator=ED1 Old Footprint=0805 New Footprint=0805C
+Change Component Footprint: Designator=ED2 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED3 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED4 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED5 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED6 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED7 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED8 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED9 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED10 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED11 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED12 Old Footprint=0805C New Footprint=SOD-323
+Change Component Footprint: Designator=ED13 Old Footprint=0805C New Footprint=SOD-323
+Change Component Comment : Designator=R40 Old Comment=22uF New Comment=22R
+Change Component Comment : Designator=R41 Old Comment=22uF New Comment=22R
+Added Component: Designator=C147(0805C)
+Added Component: Designator=C148(0805C)
+Added Component: Designator=C149(0805C)
+Added Component: Designator=C151(0805C)
+Added Component: Designator=C152(0805C)
+Added Component: Designator=C153(0805C)
+Added Component: Designator=J1(SIP-2P-2D0)
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=SDIO_D0 Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=SDIO_D1 Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=SDIO_D2 Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=SDIO_D3 Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=SDIO_CMD Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=SDIO_CLK Pin=C153-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=POWER_EN Pin=J1-2
+Added Member To Class: ClassName=09 Member=Component C147 NC
+Added Member To Class: ClassName=09 Member=Component C148 NC
+Added Member To Class: ClassName=09 Member=Component C149 NC
+Added Member To Class: ClassName=09 Member=Component C151 NC
+Added Member To Class: ClassName=09 Member=Component C152 NC
+Added Member To Class: ClassName=09 Member=Component C153 NC
+Added Member To Class: ClassName=07 Member=Component D14 SS34
+Added Member To Class: ClassName=02 Member=Component J1 PH-2P

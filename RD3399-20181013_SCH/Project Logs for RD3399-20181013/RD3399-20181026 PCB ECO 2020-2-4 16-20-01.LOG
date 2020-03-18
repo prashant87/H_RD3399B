@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetC27_1 Pin=C27-1
+Removed Pin From Net: NetName=USB3_SSTXN Pin=C27-2
+Removed Pin From Net: NetName=USB3_SSTXP Pin=C28-2
+Removed Pin From Net: NetName=HUB_5V Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=HUB_5V Pin=CON1-1
+Removed Pin From Net: NetName=USB3_DM Pin=CON1-2
+Removed Pin From Net: NetName=USB3_DP Pin=CON1-3
+Removed Pin From Net: NetName=GND Pin=CON1-4
+Removed Pin From Net: NetName=USB3_SSRXN Pin=CON1-5
+Removed Pin From Net: NetName=USB3_SSRXP Pin=CON1-6
+Removed Pin From Net: NetName=GND Pin=CON1-7
+Removed Pin From Net: NetName=NetC27_1 Pin=CON1-8
+Removed Pin From Net: NetName=HUB_5V Pin=ED5-1
+Removed Pin From Net: NetName=USB3_DM Pin=ED6-1
+Removed Pin From Net: NetName=USB3_DP Pin=ED7-1
+Removed Pin From Net: NetName=USB3_SSRXN Pin=ED8-1
+Removed Pin From Net: NetName=USB3_SSRXP Pin=ED9-1
+Removed Pin From Net: NetName=NetC27_1 Pin=ED10-1
+Removed Pin From Net: NetName=NetJ46_4 Pin=L7-1
+Removed Member From Class: ClassName=03 Member=C27
+Removed Member From Class: ClassName=03 Member=C28
+Removed Member From Class: ClassName=03 Member=C30
+Removed Member From Class: ClassName=03 Member=CON1
+Added Component: Designator=ED12(0805C)
+Added Component: Designator=ED13(0805C)
+Added Component: Designator=SW(HDR1X2)
+Added Pin To Net: NetName=HOST0_DP Pin=ED5-1
+Added Pin To Net: NetName=HOST0_DM Pin=ED6-1
+Added Pin To Net: NetName=HUB_5V Pin=ED7-1
+Added Pin To Net: NetName=USBDN3 Pin=ED8-1
+Added Pin To Net: NetName=USBDP3 Pin=ED9-1
+Added Pin To Net: NetName=HUB_5V Pin=ED10-1
+Added Pin To Net: NetName=HUB_5V Pin=ED11-1
+Added Pin To Net: NetName=USBDP4 Pin=ED12-1
+Added Pin To Net: NetName=GND Pin=ED12-2
+Added Pin To Net: NetName=USBDN4 Pin=ED13-1
+Added Pin To Net: NetName=GND Pin=ED13-2
+Added Pin To Net: NetName=NetC27_1 Pin=L7-1
+Added Pin To Net: NetName=NetJ46_4 Pin=SW-1
+Added Pin To Net: NetName=NetC27_1 Pin=SW-2
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetL7_1
+Added Member To Class: ClassName=03 Member=Component ED12 ESD
+Added Member To Class: ClassName=03 Member=Component ED13 ESD
+Added Member To Class: ClassName=02 Member=Component SW Header 2
+Added Member To Class: ClassName=02 Member=Component TP1 T POINT R

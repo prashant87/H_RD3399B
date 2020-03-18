@@ -1,0 +1,10 @@
+Change Component Comment : Designator=U17 Old Comment= New Comment=XC6210B332MR-G
+Added Component: Designator=J7(HDR1X2)
+Added Component: Designator=TP3(SCREW)
+Added Component: Designator=TP6(SCREW)
+Added Pin To Net: NetName=VDD_12V Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Member To Class: ClassName=02 Member=Component J7 Header 2
+Added Member To Class: ClassName=02 Member=Component TP3 T POINT R
+Added Member To Class: ClassName=02 Member=Component TP6 T POINT R
+Added Member To Class: ClassName=07 Member=Component U17 XC6210B332MR-G

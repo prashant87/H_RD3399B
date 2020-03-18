@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J12 Old Footprint=sip-4p-2d0 New Footprint=USB-A
+Change Component Footprint: Designator=J15 Old Footprint=sip-4p-2d0 New Footprint=USB-A
+Change Component Footprint: Designator=J16 Old Footprint=sip-4p-2d0 New Footprint=USB-A
+Added Member To Class: ClassName=02 Member=Component J9 FAN

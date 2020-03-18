@@ -1,0 +1,76 @@
+Removed Member From Class: ClassName=02 Member=J9
+Added Component: Designator=C147(0805C)
+Added Component: Designator=C148(0805C)
+Added Component: Designator=C149(0805C)
+Added Component: Designator=C151(0805C)
+Added Component: Designator=C152(0805C)
+Added Component: Designator=C153(0805C)
+Added Component: Designator=C168(0402_cc)
+Added Component: Designator=C169(C0805)
+Added Component: Designator=C170(0402_cc)
+Added Component: Designator=C171(0402_cc)
+Added Component: Designator=C172(0603_cc)
+Added Component: Designator=C173(0603_cc)
+Added Component: Designator=C174(0402_cc)
+Added Component: Designator=C209(0603_cc)
+Added Component: Designator=D14(DO-214AC)
+Added Component: Designator=L5(l5d18)
+Added Component: Designator=U20(SOT23-6)
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=SDIO_D0 Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=SDIO_D1 Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=SDIO_D2 Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=SDIO_D3 Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=SDIO_CMD Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=SDIO_CLK Pin=C153-2
+Added Pin To Net: NetName=VDD_12V Pin=C169-1
+Added Pin To Net: NetName=GND Pin=C169-2
+Added Pin To Net: NetName=VDD_12V Pin=C170-1
+Added Pin To Net: NetName=GND Pin=C170-2
+Added Pin To Net: NetName=VDD_3G Pin=C171-1
+Added Pin To Net: NetName=VDD_3G Pin=C172-1
+Added Pin To Net: NetName=GND Pin=C172-2
+Added Pin To Net: NetName=VDD_3G Pin=C173-1
+Added Pin To Net: NetName=GND Pin=C173-2
+Added Pin To Net: NetName=VDD_3G Pin=C174-1
+Added Pin To Net: NetName=GND Pin=C174-2
+Added Pin To Net: NetName=VDD_3G Pin=C209-1
+Added Pin To Net: NetName=GND Pin=C209-2
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=VDD_3G Pin=L5-2
+Added Pin To Net: NetName=GND Pin=U20-2
+Added Pin To Net: NetName=3G_EN Pin=U20-4
+Added Pin To Net: NetName=VDD_12V Pin=U20-5
+Added Pin To Net: NetName=NetC168_1 Pin=C168-1
+Added Pin To Net: NetName=NetC168_1 Pin=U20-1
+Added Net: Name=NetC168_1
+Added Pin To Net: NetName=NetC168_2 Pin=C168-2
+Added Pin To Net: NetName=NetC168_2 Pin=D14-2
+Added Pin To Net: NetName=NetC168_2 Pin=L5-1
+Added Pin To Net: NetName=NetC168_2 Pin=U20-6
+Added Net: Name=NetC168_2
+Added Pin To Net: NetName=NetC171_2 Pin=C171-2
+Added Pin To Net: NetName=NetC171_2 Pin=U20-3
+Added Net: Name=NetC171_2
+Added Member To Class: ClassName=09 Member=Component C147 NC
+Added Member To Class: ClassName=09 Member=Component C148 NC
+Added Member To Class: ClassName=09 Member=Component C149 NC
+Added Member To Class: ClassName=09 Member=Component C151 NC
+Added Member To Class: ClassName=09 Member=Component C152 NC
+Added Member To Class: ClassName=09 Member=Component C153 NC
+Added Member To Class: ClassName=07 Member=Component C168 100NF
+Added Member To Class: ClassName=07 Member=Component C169 22uF 16V
+Added Member To Class: ClassName=07 Member=Component C170 100NF
+Added Member To Class: ClassName=07 Member=Component C171 100pF
+Added Member To Class: ClassName=07 Member=Component C172 22uF
+Added Member To Class: ClassName=07 Member=Component C173 22uF
+Added Member To Class: ClassName=07 Member=Component C174 100NF
+Added Member To Class: ClassName=07 Member=Component C209 22uF
+Added Member To Class: ClassName=07 Member=Component D14 SS34
+Added Member To Class: ClassName=07 Member=Component L5 2.2uH
+Added Member To Class: ClassName=07 Member=Component U20 SY8113B

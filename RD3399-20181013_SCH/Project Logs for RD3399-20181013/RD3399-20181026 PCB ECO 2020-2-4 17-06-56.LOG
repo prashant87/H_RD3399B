@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=#HPO_R Pin=C65-2
+Removed Pin From Net: NetName=#HPO_L Pin=C66-2
+Removed Pin From Net: NetName=#HPO_R Pin=R40-2
+Removed Pin From Net: NetName=#HPO_L Pin=R41-2
+Added Pin To Net: NetName=#HPO_L Pin=C65-2
+Added Pin To Net: NetName=#HPO_R Pin=C66-2
+Added Pin To Net: NetName=#HPO_L Pin=R40-2
+Added Pin To Net: NetName=#HPO_R Pin=R41-2

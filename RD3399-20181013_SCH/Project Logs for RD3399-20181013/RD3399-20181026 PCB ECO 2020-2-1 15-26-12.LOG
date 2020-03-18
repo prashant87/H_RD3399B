@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C201 Old Footprint=0402_CC New Footprint=0805C
+Change Component Footprint: Designator=C202 Old Footprint=0402_CC New Footprint=0805C
+Change Component Footprint: Designator=R146 Old Footprint=0805R New Footprint=0805
+Change Component Footprint: Designator=J11 Old Footprint=USB-A New Footprint=SIP-4P-2D0
+Change Component Footprint: Designator=J12 Old Footprint=USB-A New Footprint=sip-4p-2d0
+Change Component Footprint: Designator=J15 Old Footprint=USB-A New Footprint=sip-4p-2d0
+Change Component Footprint: Designator=J16 Old Footprint=USB-A New Footprint=sip-4p-2d0
